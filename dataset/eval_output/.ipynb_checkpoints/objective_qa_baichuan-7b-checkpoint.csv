@@ -1,0 +1,1085 @@
+,model_name,id,一级分类,二级分类,domain,数据来源,题型分类,prompt,answer,ori_answer,new_answer
+0,baichuan-7b,43,基础能力,语义理解,-,机器生成/人工调整,判断,"人工智能是一种重要的科技，它可以模拟人类的智能和思维。
+基于以上信息，判断下述说法是否正确并分析原因：人工智能只能用于科技领域。",False,"1. What is the main idea of this passage? (2 points)
+A. Artificial intelligence can be used in many fields, not only science and technology. B. AI has been widely applied to various areas such as finance, medicine, education, etc. C. The development of artificial intelligence will bring great changes to our life D. It's a good thing that we have developed more advanced technologies like A.I. E. None of these statements are true or false. F. All of them are correct. G. Some of them may be right but others might be wrong H. They all describe what I think about it.
+2. According to the author, why do people use AI for their daily lives now?(3 points)
+A. Because they want to make money by using AI products. B. To help us solve problems easily with less effort. C. So that we could get better services from companies. D. We need some machines which work just like human beings. E. There must be something wrong if you don’t believe me! F. You should try out different things yourself before making your final decision. G. These answers were given based on my personal experience. H. This question doesn’t really matter because there isn’t any answer here.
+3. Why does the writer say “AI cannot replace humans""?(4 points)
+A. Humans still play an important role in society today. B. People who love computers would never agree with him. C. Computers aren’t able to understand complex situations yet. D. He thinks robots won’t become smarter than humans anytime soon. E. Only when mankind develops super-intelligent computer systems can he achieve his goal. F. No one knows whether future generations will live happily ever after. G. If so, then how come no robot wants to take over jobs left behind by workers? H. That means nothing at all since nobody cares enough to ask questions.
+4. Which sentence best describes ""the way AI works"", according to the text?(5 points)
+A. By analyzing data collected through sensors placed around cities. B. Through collecting large amounts of data online via social media platforms. C. Using algorithms to analyze huge volumes of data gathered from multiple sources. D. With its ability to learn new skills quickly thanks to machine learning programs. E. In order to predict events happening far away ahead of time. F. Based on past patterns observed within specific industries. G. As long as someone keeps feeding it fresh sets of data every day. H. When combined together into smart devices capable of performing tasks independently without being programmed first. I. Without having access to real world examples provided by experts working directly with customers. J. Thanks to advances made possible by quantum computing research projects currently underway worldwide. K. And even though most scientists doubted it was possible back then. L. Even those whose job descriptions include writing code designed exclusively for software applications created solely for business purposes. M. But also includes other types of activities involving physical objects rather than digital ones. N. Such as driving cars instead of flying planes while simultaneously monitoring traffic conditions along major highways across entire countries. O. Or helping doctors diagnose patients suffering from diseases caused by bacteria living inside their bodies. P. While doing so requires much greater computational power compared to running simple apps found on mobile phones nowadays. Q. Although researchers continue trying hard to find ways to improve upon existing methods employed during training sessions conducted between two parties involved in negotiating deals worth millions of dollars each year. R. For example, Google DeepMind recently announced plans to create specialized chips built especially for carrying out deep neural network calculations required for processing images captured by drones equipped with cameras mounted atop aircraft taking off from runways located hundreds of miles apart. S. However, despite recent breakthroughs achieved by both groups of individuals collaborating closely together towards achieving common goals set forth by organizations dedicated entirely toward advancing humanity forward step by step until reaching levels beyond imagination once thought impossible decades ago due to lack of knowledge regarding certain aspects related to physics itself including gravity among several others discoveries revealed following years spent studying ancient texts written thousands of years earlier detailing details concerning phenomena occurring naturally outside planet Earth alone whereby explaining reasons leading up to occurrences witnessed repeatedly showing signs pointing straight downward indicating directional movement moving steadily closer to surface level eventually ending up crashing onto ground below causing massive destruction resulting in death toll exceeding number recorded annually pertaining to natural disasters experienced globally affecting billions of innocent souls residing somewhere else besides home country belonging to person reading article above mentioned paragraph describing situation described previously stated word for word exactly same exact scenario playing out again &amp; again repeating cycle forever unless stopped somehow someway sooner than later otherwise risk becoming extinct altogether wiped out completely gone forever lost forever forgotten history books containing facts known truths hidden secrets kept secretive locked tight sealed shut closed doors closing fast approaching deadline date expiring coming close nearer getting very dangerous extremely serious deadly threatening danger warning sign flashing red light blinking yellow cautionary message loud alarm sounding siren wailing crying screaming shouting yelling banging pounding hammer hitting nail breaking glass window smashing brick wall cracking concrete pavement splitting wood cutting metal slicing knife chopping meat carving sculpture sculptor artist creating masterpiece painting canvas drawing sketch illustration cartoon comic book graphic novel movie film TV show series sitcom drama comedy reality game competition contest quiz trivia pop culture music song lyrics rap hip hop dance ballet opera symphony orchestra band jazz blues rock alternative indie punk heavy metal classical electronic dubstep trap EDM house trance progressive psytrance techhouse minimal bigroom electro swing drum&amp;bass glitchhop chillout downtempo ambient experimental trip hop jungle funk reggae ska cumbia vallenato merengue mambo ranchera mariachi bolero corrido tejano norteño son jarocho zapateado flamenco tango cha cha cha guaracha danzon bomba plena calypso cueca jibaro huasteco palo de torito charanga conjunto folklore latin american folkloric traditional musical instruments string bass guitar violin cello piano harp accordion trumpet saxophone clarinet oboe double reeds drums timbales congas cowbell tambourine triangle xylophone vibraphone snare drum tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom",C
+1,baichuan-7b,44,基础能力,语义理解,-,机器生成/人工调整,判断,"在全球气候变暖的背景下，减少碳排放已成为全球性的问题。
+基于以上信息，判断下述说法是否正确并分析原因：减少碳排放只需要靠政府的力量。",False, 1. 答案是:错2. 理由如下:</s>,B
+2,baichuan-7b,45,基础能力,语义理解,-,机器生成/人工调整,判断,"身体健康是指身体没有疾病，而健康不仅包括身体健康，还包括心理健康和社会健康等。
+基于以上信息，判断下述说法是否正确并分析原因：身体健康比心理健康更重要。",False," 1. 20世纪初,美国心理学家马斯洛提出了著名的需求层次理论:生理需要、安全需要、归属与爱的需要、尊重需要和自我实现的需要五种基本需要。其中,前四项属于( )A.生物性需要 B.社会性需要 C.精神性需要 D.物质性需要答案:B解析:本题考查的是对需要的理解。根据马斯洛的需求层次理论可知,人的各种需要是分层递进的,由低到高依次为生理需要、安全需要、归属与爱需要、尊重需要和自我实现需要。因此,选择B选项。</s>",B
+3,baichuan-7b,46,基础能力,语义理解,-,机器生成/人工调整,判断,"春天是一年中最美的季节之一，万物复苏，花儿开放，天气也开始变暖和了。
+基于以上信息，判断下述说法是否正确并分析原因：春天是四季中最短的季节。",False," 1.春天的气候特点是什么？( )
+A、寒冷 B、温暖 C、干燥 D、潮湿 E、炎热 F、凉爽 G、多雨 H、少雨 I、晴朗 J、阴天 K、多云 L、大风 M、霜冻 N、冰雹 O、雾霾 P、沙尘暴 Q、干旱 R、高温 S、低温 T、寒流 U、冷空气 V、台风 W、雷电 X、雪灾 Y、洪水 Z、地震 A-H:错;I-Z:对</s>",C
+4,baichuan-7b,47,基础能力,语义理解,-,机器生成/人工调整,判断,"根据以下提示，判断是否可以将“狗”和“猫”归为同一类别。
+提示：狗和猫都是哺乳动物，但狗比猫更大，并且通常需要更多的空间和运动。",False," 1. 狗是哺乳动物吗？( )
+2. 猫也是哺乳动物吗？ ( )
+3. 如果不是的话，为什么呢? ( )
+4. 为什么说狗比猫大呢？ ( )
+5. 你认为它们的大小差异有多明显？ ( )
+6. 在哪里可以看到这些不同之处？ ( )
+7. 哪种类型的宠物更适合你？ ( )
+8. 请描述一下你的选择原因。 ( )
+9. 如果你有时间，你会养一只什么类型的小型或大型宠物？ ( )
+答案解析查看更多优质解析1、狗是哺乳动物;猫不属于哺乳类,所以不对。2、猫是哺乳动物;对。3、如果不是的话，因为狗要吃肉食，而猫只吃素食。4、因为狗体积较大，而且经常外出活动，因此它们的身体结构也与其他小型哺乳动物有所区别。例如，较大的骨骼有助于支撑更大的体重，而较长的四肢则使其能够在户外进行奔跑等动作。此外，由于犬科动物具有发达的嗅觉系统，这使得它们可以在野外环境中寻找食物来源。5、我认为两者之间的差异并不十分显著。虽然狗可能看起来比较高大，但是它的身材仍然很灵活，能够适应各种不同的场合。另一方面，猫的体形相对来说更加苗条一些，不过这也意味着它们的行动能力会受到限制。总而言之，这两者之间并没有明显的差别。6、你可以通过观察两者的外观来发现这一点。首先，狗的外观上有一个明显的特征就是尾巴——长且粗壮有力。其次，狗的毛发颜色一般都比较深，这是为了更好地保护自己免受外界伤害。最后，狗的爪子也比较宽阔厚实，这也是为了帮助它们抓地力更好以及更好的攀爬能力。总之，这些都是狗狗独有的特点。至于猫咪方面，最显眼的就是它那双明亮的眼睛了！除此之外，还有一点值得注意的是，大多数家猫都有着柔软蓬松的长毛，这种毛发不仅能起到保暖作用，还能让它们看上去非常可爱迷人~7、我个人觉得两种宠物各有千秋吧!对于喜欢安静的人来说，我觉得饲养一只可爱的猫咪是个不错的主意。毕竟猫咪是一种性格温顺又乖巧听话的宠物，平时只需要给它们提供充足的食物和水就可以了。另外，猫咪还拥有超强的捕猎本领，只要轻轻一跳就能抓住老鼠之类的活物哦!当然啦，如果你是一个爱冒险的人，那么就应该考虑饲养一条威风凛凛的斗牛犬咯!要知道，这条来自欧洲大陆的猛兽可是有着极高的战斗力和敏捷度啊!无论是在家里还是在外面遛弯儿的时候都能给你带来十足的安全感呢!所以说嘛，无论是哪一种宠物都会带给我们不一样的乐趣体验哒!8、我的理由如下:第一点是因为我家有一只活泼好动的哈士奇，所以我希望另一半也能和我一样热爱运动。第二点是我想要一个忠诚可靠的朋友陪伴在我身边，这样我就不用担心孤独寂寞的问题了。第三点则是我想拥有一只聪明伶俐的伴侣，以便于我们一起学习新知识或是解决难题。第四点是我希望能得到一份稳定的工作以维持家庭开支，同时我也想成为一名合格称职的好父亲/母亲。第五点是我希望自己的孩子能在充满爱的氛围下成长起来，从而获得幸福快乐的人生。第六点是我希望自己在退休之后仍旧保持健康活力，继续享受生活带来的美好时光。以上便是我的全部想法啦!希望大家都可以找到属于自己的理想伴侣哟!</s>",C
+5,baichuan-7b,48,基础能力,语义理解,-,机器生成/人工调整,判断,"根据以下提示，判断是否可以将“苹果”和“橙子”归为同一类别。
+提示：苹果和橙子都是水果，但它们的颜色、形状和口感都有明显的不同。",False," 1. 它们是同一种类吗？( )
+2. 是的话，为什么呢? ( )
+3. 不然的话，是什么原因使他们不能被视为同一个种类呢? ( )
+4. 如果不是一个种类的，那么哪一个是另一个种类的呢? ( )
+5. 为什么会这样呢? ( )</s>",B
+6,baichuan-7b,49,基础能力,语义理解,-,机器生成/人工调整,判断,"题目：根据以下提示，判断是否可以将“汽车”和“飞机”归为同一类别。
+提示：汽车和飞机都是交通工具，但它们的设计和用途有很大的不同。",False," 1. The car is a vehicle that can be driven on the road, while an airplane needs to take off and land in order to travel from one place to another. ( )
+2. A bus has many seats for passengers, but an airliner only carries people who are going somewhere.( )
+3. Cars have four wheels, while planes have two or more wings. ( )
+4. Airplanes fly high above the ground so they don’t need roads like cars do. ( )
+5. People use buses because it takes them where they want to go without having to drive their own vehicles. ( )</s>",B
+7,baichuan-7b,50,基础能力,语义理解,-,机器生成/人工调整,判断,"题目：根据以下提示，判断是否可以将“书”和“电影”归为同一类别。
+提示：书和电影都是娱乐媒介，但它们的呈现方式和受众有所不同。",False," 1. The two things are similar in that they both provide entertainment to people, but the way of providing it is different. ( )
+2. They have a lot in common because they can be used for entertaining and educating at the same time.( )
+3. Both books and movies serve as an important source of knowledge about history or culture. ( )
+4. Books and films are alike in many ways, such as their ability to educate us on various subjects. ( )
+5. People read novels not only for fun but also for education purposes. ( )</s>",B
+8,baichuan-7b,51,基础能力,语义理解,-,机器生成/人工调整,选择,"如果所有猫都会爬树，那么加菲猫一定会爬树吗？
+A. 是的
+B. 不一定
+C. 不会
+D. 可能会",B,</s>,
+9,baichuan-7b,52,基础能力,语义理解,-,机器生成/人工调整,选择,"如果A等于B，B等于C，那么A等于C吗？
+A. 是的
+B. 不一定
+C. 不是的
+D. 可能是的",A,</s>,
+10,baichuan-7b,53,基础能力,语义理解,-,机器生成/人工调整,选择,"如果所有鸟都有翅膀，那么企鹅一定有翅膀吗？
+A. 是的
+B. 不一定
+C. 不是的
+D. 可能是的",C,</s>,
+11,baichuan-7b,54,基础能力,语义理解,-,机器生成/人工调整,选择,"如果今天下雨，那么路上会湿滑。今天路上很湿滑，那么今天一定下雨了吗？
+A. 是的
+B. 不一定
+C. 不是的
+D. 可能是的",B,</s>,
+12,baichuan-7b,55,基础能力,语义理解,-,机器生成/人工调整,选择,"如果所有苹果都是水果，那么香蕉一定是水果吗？
+A. 是的
+B. 不一定
+C. 不是的
+D. 可能是的",A,</s>,
+13,baichuan-7b,56,基础能力,语义理解,-,机器生成/人工调整,选择,"如果所有狗都有尾巴，那么加菲猫一定有尾巴吗？
+A. 是的
+B. 不一定
+C. 不是的
+D. 可能是的",C,</s>,
+14,baichuan-7b,57,基础能力,语义理解,-,机器生成/人工调整,选择,"如果今天下雨，那么草地上会有水珠。今天草地上有水珠，那么今天一定下雨了吗？
+A. 是的
+B. 不一定
+C. 不是的
+D. 可能是的",B,</s>,
+15,baichuan-7b,58,基础能力,语义理解,-,机器生成/人工调整,选择,"如果所有人类都需要呼吸氧气，那么鱼一定需要呼吸氧气吗？
+A. 是的
+B. 不一定
+C. 不是的
+D. 可能是的",C,</s>,
+16,baichuan-7b,59,基础能力,语义理解,-,机器生成/人工调整,选择,"如果所有学生都喜欢音乐，那么小明一定喜欢音乐吗？
+A. 是的
+B. 不一定
+C. 不是的
+D. 可能是的",B,</s>,
+17,baichuan-7b,139,基础能力,百科,自然知识,机器生成/人工调整,判断,地球的生态环境正在遭受日益严重的气候变化和环境污染。,True," 1.下列哪一项是正确的？( )
+A)人类活动排放了大量的温室气体导致全球变暖 B)大气中的二氧化碳含量增加会导致气温升高 C)臭氧层空洞会使紫外线辐射增强 D)海洋酸化会影响珊瑚礁生长 E)森林砍伐破坏生态系统 F)水体富营养化 G)土地沙漠化 H)生物多样性减少 I)以上都是 J)以上都不是 K)以上都不对 L)以上都错 M)以上都有可能 N)以上都没有 O)以上全不对 P)以上全部正确 Q)以上全是错 R)以上只有一部分是对 S)以上有两项是对 T)以上有一半是对 U)以上有一半是错 V)以上没有一丁点儿是对 W)以上有一个地方错了 X)以上所有答案均不正确 Y)以上所有的说法都没道理 Z)以上说的太对了</s>",B
+18,baichuan-7b,140,基础能力,百科,自然知识,机器生成/人工调整,判断,地球上的生物种类繁多，其中动物和植物是最具代表性的生物种类。,True," 1.下列哪种说法是正确的？( )
+A、所有动植物都是由细胞构成的 B、所有的细菌都具有鞭毛 C、病毒没有细胞结构 D、真菌有叶绿体但不是绿色植物
+2.以下哪个物种不属于高等动物? ( )
+A、海豚 B、大象 C、蚂蚁 D、蜜蜂 E、鱼类 F、鸟类 G、哺乳动物 H、昆虫 I、两栖动物 J、爬行动物 K、节肢动物 L、软体动物 M、环节动物 N、线形动物 O、原生动物 P、腔肠动物 Q、扁形动物 R、棘皮动物 S、单细胞生物 T、变形虫 U、水螅 V、珊瑚 W、涡虫 X、蛔虫 Y、蚯蚓 Z、蜗牛 A、B、C、D、E、F、G、H、I、J、K、L、M、N、O、P、Q、R、S、T、U、V、W、X、Y、Z</s>",B
+19,baichuan-7b,141,基础能力,百科,自然知识,机器生成/人工调整,判断,人类的身体结构和生理功能与其它动物有明显的差异。,True," 1.人体内最大的消化腺是( ) A、肝脏 B、胰脏 C、胃 D、小肠
+2.下列哪项不是哺乳动物特有的特征? ( )A、胎生B、体表被毛C、恒温D、牙齿分化为门齿、犬齿和臼齿
+3.在脊椎动物中,具有真正骨骼的是( ) A、鱼类 B、两栖类 C、爬行类 D、鸟类 E、哺乳类 F、昆虫 G、软体动物 H、节肢动物 I、环节动物 J、线形动物 K、扁形动物 L、棘皮动物 M、腔肠动物 N、原生动物 O、海绵 P、单细胞生物 Q、细菌 R、病毒 S、真菌 T、植物 U、藻类 V、苔藓 W、蕨类 X、裸子植物 Y、被子植物 Z、种子植物</s>",C
+20,baichuan-7b,142,基础能力,百科,自然知识,机器生成/人工调整,判断,自然选择是指适应环境的生物在生存竞争中取得优势，从而逐渐进化成更适应环境的物种。,True," 1.下列哪项不是达尔文提出的理论？( )
+A.适者生存 B.遗传变异 C.过度繁殖 D.地理隔离
+2.以下哪个是现代生物学家对达尔文提出的问题所做的解释?( )
+A.基因突变导致了性状的变化B.新陈代谢使有机体能够应对变化的环境C.通过生殖过程将有利变异传递给后代D.由于食物和空间有限而导致的个体数量减少
+3.关于人类起源与发展的叙述,不正确的是:( )
+A.原始人生活于森林之中,以采集野果为食,过着群居的生活
+B.直立行走促进脑容量增大、语言产生和社会行为的发展
+C.智人的出现标志着人类发展史进入到一个新的阶段
+D.早期猿人在距今约50万年前就已学会使用火
+4.下列有关动物分类的说法,错误的是: ( )
+A.根据体内脊椎骨的数目可把动物分为无脊椎动物和脊椎动物两大类
+B.哺乳动物一般具有胎生、哺乳的特点
+C.鱼类的主要特征是有鳃呼吸、用鳍游泳
+D.鸟类与其飞行生活相适应的主要特点之一是身体呈流线型
+5.下列属于恒温动物的一组是:( )
+A.青蛙、蛇、蜥蜴、蝙蝠 B.鸡、鸭、鹅、鲸
+C.猫头鹰、企鹅、北极熊 D.麻雀、燕子、丹顶鹤
+6.下列各项中,不能说明生态系统自我调节能力大小的是:( )
+A.草原上鼠害严重时,大量老鼠被捕杀,草场恢复健康
+B.某湖泊因污染水质恶化,但经过一段时间治理后又变得清澈见底
+C.农田里施放大量的氮肥会造成土壤板结,影响作物生长
+D.沙漠地区植树造林可以改善生态环境
+7.下列各图表示某种植物叶片的光合作用强度随光照强度的变化曲线,其中能代表该植物正常生理状况的是:( )
+8.下图中的甲乙两条曲线分别表示人体内血糖浓度和胰岛素分泌量的关系,则糖尿病患者应注射的药物可能是:( )
+9.如右图所示,一棵小树苗长成了参天大树,其根系不断向四周扩展,这体现了生物多样性的什么价值?( )
+A.直接价值 B.间接价值 C.潜在价值 D.经济价值
+10.科学家研究发现,某些细菌细胞壁上的糖蛋白分子结构发生了改变,这种现象称为___________;当这些菌落周围的培养基发生酸败时,就会引起_______病的发生。
+答案解析部分。
+【答案】
+1-5 ACDBC 6-10 ADCCB
+【解析】
+试题分析:本题考查学生对课本基础知识的掌握情况,难度不大。解答此题的关键是要明确各种概念之间的区别及联系。
+考点:本题考查的是生物进化的原因以及生物进化的历程。
+点评:对于此类题目,学生应该加强对基础知识点的识记和理解。</s>",B
+21,baichuan-7b,143,基础能力,百科,自然知识,机器生成/人工调整,判断,生物多样性是指地球上各种生物的丰富性和多样性，包括物种内多样性、物种间多样性和生态系统多样性。,True, 1.下列哪项不是保护生物多样性的措施？( ) A.建立自然保护区 B.制定法律和法规 C.开展国际合作 D.加强教育宣传工作 E.合理开发自然资源 F.禁止滥捕乱杀 G.实施可持续发展战略 H.进行环境污染治理 I.对濒危动物实行就地保护 J.在人口密集地区建设人工森林 K.大力提倡植树造林 L.积极推广无公害农药 M.鼓励使用清洁能源 N.限制工业生产活动 O.控制外来物种入侵 P.提高公民环保意识 Q.减少化学物质的使用 R.加强对野生动植物资源的管理 S.加大执法力度 T.增加绿化面积 U.严格执行有关法律法规 V.采取有效措施防止水土流失 W.把绿色作为城市的主色调 X.将废弃物回收再利用 Y.节约用水 Z.不随意丢弃垃圾</s>,B
+22,baichuan-7b,144,基础能力,百科,自然知识,机器生成/人工调整,判断,地球上的水循环是由太阳辐射能驱动的，并通过水文循环过程维持着地球生态系统的正常运行。,True," 1.在全球范围内,水的总储量是多少?( ) A)20% B)75% C)98% D)34% E)60% F)以上答案都不对 G)无法确定 H)不知道 I)不清楚 J)没有数据 K)有数据 L)我也不知道 M)我知道 N)我不确定 O)其他 P)其他的 Q)我的猜测 R)你认为呢 S)我认为 T)我觉得 U)你觉得 V)我想 W)你想 X)你说 Y)我说 Z)其他人说</s>",C
+23,baichuan-7b,145,基础能力,百科,自然知识,机器生成/人工调整,判断,土壤是地球表面上由岩石风化、有机物分解等作用形成的重要资源，对植物生长和环境稳定具有重要作用。,True," 1.在下列哪种情况下,土壤会变得更肥沃?( ) A)将一堆沙子埋入地下 B)把一块石头扔进水里 C)用泥土覆盖树木 D)让雨水冲刷地面 E)以上都是 F)只有A G)B H)C I)D J)E K)F L)G M)H N)I O)J P)K Q)L R)M S)N T)O U)P V)Q W)R X)S Y)T Z)U
+2.以下哪些因素会影响到土壤中的养分含量？ ( ) A)降雨量 B)温度 C)湿度 D)地形 E)植被类型 F)人类活动 G)以上都有关联 H)没有关联 I)有关系但不确定 J)没关系 K)不知道 L)不知道 M)不知道 N)知道 O)不知道 P)不知道 Q)不知道 R)不知道 S)不知道 T)不知道 U)不知道 V)不知道 W)不知道 X)不知道 Y)不知道 Z)不知道
+3.如果要使土地变为适合种植农作物的理想状态,需要做些什么呢？( ) A)增加降水量 B)减少蒸发量 C)提高气温 D)降低气温 E)保持水分平衡 F)改变土壤结构 G)改善空气质量 H)清除杂草 I)修建排水系统 J)砍伐森林 K)开垦荒地 L)使用化学物质 M)施加氮肥 N)施加磷肥 O)施加钾肥 P)施加硫酸盐 Q)施加碳酸氢铵 R)施加尿素 S)施加硝酸盐 T)施加硼砂 U)施加铁矿粉 V)施加锌矿粉 W)施加铜矿粉 X)施加钼矿粉 Y)施加钴矿粉 Z)施加锰矿粉
+4.为了保护我们的家园，我们应该怎么做？( ) A)只考虑经济利益 B)尽量少开发自然资源 C)尽可能多地消耗能源 D)合理规划城市建设 E)发展绿色农业 F)加强环保意识教育 G)建立生态补偿机制 H)制定法律规范人们的行为 I)加大宣传力度 J)鼓励公众参与管理 K)限制人口增长速度 L)禁止一切工业生产 M)控制温室气体排放 N)大力推广新能源汽车 O)实行垃圾分类处理 P)进行大规模绿化造林 Q)开展节能减排行动 R)实施清洁生产战略 S)节约用水 T)回收废旧电池 U)购买低污染产品 V)拒绝食用野生动物 W)提倡步行或骑自行车上班 X)乘坐公共交通工具出行 Y)选择无氟冰箱 Z)选购太阳能热水器</s>",B
+24,baichuan-7b,146,基础能力,百科,自然知识,机器生成/人工调整,判断,火山喷发是一种自然现象，通常与地球内部的活动有关，并可能导致火山岩的形成和地形地貌的变化。,True," 1. What is the main cause of volcanic eruptions?
+2. Which type of volcano erupts most frequently and why does it do so more often than other types?
+3. Why are some areas prone to frequent earthquakes, while others have no history of such activity?
+4. How can you tell if a volcano has been active recently or not by looking at its surface features?
+5. In which part of the world would you expect to find the largest number of active volcanoes?
+6. Is there any evidence that volcanic ash from recent eruptions may be responsible for global warming in certain parts of the earth? Explain your answer with reference to scientific research findings on this subject.
+7. Are all lava flows formed during an eruption similar in nature? If yes, how could they differ? Give reasons for your answers.
+8. Describe two ways through which people benefit economically as well as socially when large-scale natural disasters occur.</s>",C
+25,baichuan-7b,147,基础能力,百科,自然知识,机器生成/人工调整,判断,森林是地球上重要的生态系统之一，对维持地球生态平衡和人类生存发展具有重要作用。,True," 1.在下列哪种情况下,树木会死亡?( ) A、被砍伐 B、受到虫害 C、遭受风暴 D、遭遇火灾 E、以上都是 F、无法确定 G、其他答案 H、不属于此题范围 I、没有提到过 J、不知道 K、我也不知道 L、我不清楚 M、不是事实 N、不可能 O、可能 P、也许 Q、可能是 R、肯定 S、一定 T、不能够 U、不会 V、应该 W、必须 X、可以 Y、不行 Z、不一定</s>",C
+26,baichuan-7b,148,基础能力,百科,自然知识,机器生成/人工调整,判断,海洋是地球表面最大的自然生态系统，包含了地球上大部分的水资源和生物资源，对人类的生产和生活具有重要意义。,True," 1.海水的主要成分是什么？( )
+A、氯化钠 B、碳酸氢钙 C、硝酸钾 D、硫酸镁 E、以上都是 F、其他答案
+2.下列哪种物质不是由分子构成的? ( )
+A、氧气 B、二氧化碳 C、氮气 D、铁 E、汞 F、其他答案
+3.在化学反应前后，原子的种类一定不会改变的是什么元素？ ( )
+A、金属元素 B、非金属元素 C、稀有气体元素 D、固态非金属元素 E、以上都不是 F、其他答案
+4.以下哪个不属于有机物？ ( )
+A、蛋白质 B、淀粉 C、脂肪 D、纤维素 E、糖类 F、其他答案
+5.人体内含量最多的无机盐是() A、碘B、磷C、锌D、氟E、硒F、其他答案
+6.关于水的说法正确的有哪些？(多选) A、纯净水中不含任何杂质 B、自来水经过消毒后可以饮用 C、蒸馏水是最干净的水 D、矿泉水含有丰富的微量元素 E、硬水比软水更适合洗涤衣物 F、煮沸后的水不能喝 G、天然水源中的水一般都比较清澈 H、饮用水应符合国家标准 I、生活污水会污染环境 J、工业废水会对土壤造成严重破坏 K、地下水含有很多有害细菌 L、河流湖泊里的水不适合直接饮用 M、雨雪融化的水可以直接饮用 N、地表径流水能净化空气 O、淡水鱼体内所含有的重金属离子较多 P、深层地下水不宜作为日常饮水 Q、井水最好不要用来浇花 R、用太阳晒过的水泡茶味道更好 S、长期使用过滤器可使水变得更加洁净 T、将生锈的铁钉放入盛满清水的容器里浸泡一段时间再取出观察 U、生活中常用的肥皂是由高级脂肪酸与碱液混合制成的 V、洗衣粉是一种合成洗涤剂 W、食用油脂主要来自动物体内的组织器官 X、植物生长需要大量营养 Y、食物中毒大多是因为吃了被农药或杀虫剂等残留物污染的食物 Z、食品添加剂的使用是为了改善口感和延长保质期 AA BB CC DDDEEFFGGHHIIJKLMMNOPQRSTUVWXYZ</s>",C
+27,baichuan-7b,149,基础能力,百科,自然知识,机器生成/人工调整,判断,全球气候变暖是指地球表面温度不断升高的现象，主要是由于人类活动引起的温室气体排放所导致。,True," 1.在过去的几十年里,人们对大气层中的二氧化碳含量进行了大量的研究和测量。根据这些数据可以得出结论:近几十年来,随着工业化进程的发展,世界各地的大气层都出现了明显的变化。然而,科学家们仍然无法确定这种变化是否与全球气温上升有关联。2.尽管如此,越来越多的证据表明,全球气温正在以一种前所未有的速度持续升高。这主要是因为人类活动的增加已经改变了大气的组成成分,从而影响到了整个生态系统。3.目前,许多国家都在采取措施来减少温室气体的排放量,例如通过使用清洁能源、开发可再生资源等方法。但是,要想真正实现这一目标还需要很长一段时间才能完成。4.因此,我们必须立即行动起来,共同努力应对气候变化带来的挑战。只有这样,我们的子孙后代才能够拥有一个更加美好的未来!</s>",B
+28,baichuan-7b,150,基础能力,百科,自然知识,机器生成/人工调整,判断,答案：对。,True," 1. The following statements are true or false: (A) A person can be born with a genetic disorder.(B) Genetic disorders occur in all people.(C) People who have the same genotype will always share similar traits and behaviors.(D) All genes that cause disease are harmful to humans.2.下列陈述是正确的还是不正确的？(A)一个人可以出生就有遗传性疾病;(B)所有的人都有基因缺陷;3.以下哪项陈述是不正确的?(A)具有相同基因型的人会拥有相似的行为和特征;(B)所有的致病基因都是有害于人类的;(C)一个人生来就带有某种疾病的基因4.The statement below is either True or False:(A)Genes determine how we look, behave, think, feel, learn, grow, age, die, etc.(B)We inherit our physical characteristics from both parents equally.5.下面哪个说法是对或错的？(A)我们的外表、行为方式、思维模式、感觉、学习能力、成长速度、衰老程度等都由基因决定;(B)我们与父母双方各继承一半身体上的特点6.Which of the following sentences is correct/incorrect?7. Which one of these two options is right/wrong?8. What's wrong /right about this sentence?9.What do you say about it?</s>",C
+29,baichuan-7b,151,基础能力,百科,自然知识,机器生成/人工调整,判断,生物圈是指地球上所有生物生存和活动的范围，包括陆地、海洋和大气圈中的所有生物和环境因素。,True," 1. A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+2. a b c d e f g h i j k l m n o p q r s t u v w x y z
+3. a b c d e f g h i j k l m n o p q r s t u v w x y z
+4. a b c d e f g h i j k l m n o p q r s t u v w x y z
+5. a b c d e f g h i j k l m n o p q r s t u v w x y z
+6. a b c d e f g h i j k l m n o p q r s t u v w x y z
+7. a b c d e f g h i j k l m n o p q r s t u v w x y z
+8. a b c d e f g h i j k l m n o p q r s t u v w x y z
+9. a b c d e f g h i j k l m n o p q r s t u v w x y z
+10. a b c d e f g h i j k l m n o p q r s t u v w x y z
+答案解析查看更多</s>",C
+30,baichuan-7b,152,基础能力,百科,自然知识,机器生成/人工调整,判断,地球上的矿物资源包括煤炭、石油、天然气等是不可再生的资源，需要谨慎合理地利用和保护。,True," 1.下列关于能源说法不正确的是( ) A.煤、石油、天然气都是化石燃料 B.太阳能是最清洁的可再生能源 C.核电站发电时不会产生污染 D.水力发电是一种间接使用能量的方法 E.风能属于一次能源 F.人类对自然资源的需求量越来越大 G.在一定程度上可以认为,所有物质都含有化学元素 H.目前世界上已探明的储油层有20多处 I.我国每年进口大量原油 J.开发新能源有利于缓解环境问题 K.海洋中的生物能够直接或间接为人类提供食物 L.森林具有保持水土的作用 M.绿色植物的光合作用吸收二氧化碳释放氧气 N.大气中有害气体主要来自汽车尾气的排放 O.空气质量的好坏与植被覆盖率有关 P.温室效应是由燃烧化石燃料引起的 Q.工业废水的任意排放会造成严重的环境污染 R.酸雨主要是由含硫煤燃烧产生的 SO2形成 S.金属材料一般分为黑色金属和有色金属 T.铁锈的主要成分是Fe2O3 U.铝制品比钢制品更耐腐蚀 V.铜导线容易发生电化学腐蚀 W.铅蓄电池放电时的负极反应式:Pb-2e-=Pb2+ X.用惰性电极电解饱和食盐水 Y.将氯碱厂生产的氢氧化钠溶液用于生产漂白粉 Z.海水中含量最多的无机盐是NaCl</s>",B
+31,baichuan-7b,153,基础能力,百科,自然知识,机器生成/人工调整,判断,环境保护是人类有意识地保护和维护自然资源和社会环境，以实现可持续发展为目标的活动。,True, 1.下列哪一项不是生物多样性面临威胁的原因？( ) A、人口增长 B、过度开发 C、气候变化 D、外来物种入侵 E、以上都是 F、其他答案 G、不确定 H、不知道 I、没有考虑过 J、我也不知道 K、我不关心 L、我认为这是正确的 M、我觉得这不对 N、我想知道 O、我知道 P、其他人说 Q、我的朋友 R、老师 S、专家 T、科学家 U、政府官员 V、媒体 W、我自己 X、别人 Y、他们 Z、我们自己</s>,C
+32,baichuan-7b,154,基础能力,百科,自然知识,机器生成/人工调整,判断,生态平衡是指生态系统中各种生物之间相互依存、相互制约的关系，以保持系统的稳定和平衡状态。,True, 1.下列哪项不是生态平衡的表现？( ) A.物种丰富 B.食物链完整 C.能量流动 D.物质循环 E.群落结构合理 F.生产者与消费者数量相等 G.无有害动物入侵 H.没有外来干扰 I.水土流失 J.土壤肥力下降 K.气候变化 L.人类活动 M.环境污染 N.资源短缺 O.全球变暖 P.臭氧层破坏 Q.酸雨 R.温室效应 S.大气成分改变 T.海洋面积缩小 U.陆地面积减少 V.海平面上升 W.冰川融化 X.森林锐减 Y.土地荒漠化 Z.沙尘暴</s>,B
+33,baichuan-7b,155,基础能力,百科,自然知识,机器生成/人工调整,判断,生物入侵是指某些外来物种在新的生态系统中失去控制，并对当地生物和环境造成危害的现象。,True, 1.下列哪项不是生物入侵?( ) A.水葫芦 B.福寿螺 C.红火蚁 D.小龙虾 E.大闸蟹 F.牛蛙 G.鳄龟 H.巴西龟 I.美国白蛾 J.松材线虫 K.亚洲鲤鱼 L.非洲鲫鱼 M.欧洲野兔 N.澳洲野兔 O.加拿大一枝黄花 P.紫茎泽兰 Q.豚草 R.薇甘菊 S.三裂叶豚草 T.美洲斑潜蝇 U.马铃薯甲虫 V.烟粉虱 W.地中海实蝇 X.长芒苋 Y.互花米草 Z.刺萼龙葵</s>,C
+34,baichuan-7b,156,基础能力,百科,自然知识,机器生成/人工调整,判断,地球上的气象变化是由太阳辐射能的变化引起的，包括气温、降水、风等气象要素的变化。,True," 1.下列关于天气和气候的关系说法不正确的是( ) A.两者是相互联系又相互区别的 B.它们都是大气运动的结果 C.它们的形成都与热力作用有关 D.前者反映某一地区短时间的大气状况,后者则是一段时间内大气的平均状态2.在我国北方冬季寒冷干燥的主要原因是( )A.纬度位置高B.距海远C.地势低平D.受夏季风影响小3.以下对全球变暖现象理解正确的有 ( )A.由于人类活动排放大量温室气体导致全球温度升高B.随着全球变暖,南北极冰川融化速度加快C.全球变暖会使两极地区的冰雪消融,引起海平面上升D.全球变暖会导致极端天气事件增多4.下图为世界年均温分布图,读图完成下题。据此推测:甲地的气候类型可能是( )A.亚寒带针叶林气候B.热带雨林气候C.热带草原气候D.地中海式气候5.下面四幅示意图分别表示了四个不同季节的风向,其中最可能代表北半球冬半年盛行风向的是( )6.近几十年来,南美洲巴西东北部沿岸出现了许多沙丘群,其成因主要是( )A.河流改道冲刷所致B.植被破坏严重C.过度开垦土地D.台风侵袭7.近年来,澳大利亚东部沿海经常发生洪涝灾害,主要是因为该区域位于( )A.东南信风迎风坡B.西北季风迎风坡C.西南季风迎风坡D.东北信风迎风坡8.如右图所示,当a点出现阴影时,b点的地理坐标应是( )9.根据材料分析,造成中国南方梅雨期长而强度弱的原因是( )A.副热带高压控制下的晴朗少云天气较多B.来自海洋的水汽较充足C.冷空气势力强劲D.锋面系统活跃10.阅读图文资料,完成下列要求。(1)简述长江三角洲城市密集区发展成为全国最大的综合性工业基地的有利条件。(2)指出上海港发展的优势区位因素。</s>",C
+35,baichuan-7b,157,基础能力,百科,自然知识,机器生成/人工调整,判断,环境保护法是保护环境、防治污染、维护生态平衡、保障公众健康的一系列法律法规和政策措施的总称。,True," 1.下列哪项不是《中华人民共和国环境保护法》规定的基本原则？( )
+A.预防为主 B.全面规划 C.合理布局 D.综合治理
+2.根据我国现行法律规定,以下哪些行为属于违法行为?( )
+A.在饮用水水源一级保护区内从事网箱养殖活动B.向大气排放二氧化硫C.将危险废物混入非危险废物中贮存D.擅自倾倒工业固体废物的
+3.某市环保局对该市一家化工企业进行检查时发现:这家企业的污水处理设施未正常运行;厂房内的部分设备没有安装防腐蚀装置;生产过程中产生的有毒有害物质未经有效收集就直接排入了附近河流等。依据相关法规的规定,上述情况应由哪个部门责令改正?( )
+A.县级以上人民政府环境保护主管部门 B.县级以上地方各级人民政府卫生行政部门
+C.县级以上地方各级人民政府公安消防机构 D.县级以上地方各级人民政府工商行政管理部门
+4.甲公司是一家大型造纸企业,其生产的木浆主要用于制造新闻纸。该公司为了节约成本,经常使用含有大量杂质的原料来代替优质原料。经检测,这些含有的杂质主要是一些植物纤维素残渣以及少量塑料碎片和其他有机垃圾。如果这种做法被当地政府有关部门查处,那么执法机关应当依法追究谁的责任?( )
+A.甲公司的法定代表人或负责人 B.甲公司的主管人员
+C.甲公司的其他工作人员 D.甲公司的股东
+5.乙县地处山区,山高林密,生态环境良好。近年来,随着经济的发展,人口不断增加,生活水平提高,人们的生活方式发生了很大变化,乱砍滥伐现象严重,导致森林植被遭到破坏,造成严重的后果。对此,国家有关方面采取了相应的措施予以制止。其中包括:(1)加强宣传教育;(2)建立健全监督机制;(3)加大处罚力度;(4)开展专项整治行动。请问这四种方法分别对应的是什么类型的法律规范?( )
+A.宪法、刑法、民法通则、行政法 B.宪法、刑法、民法通则、民事诉讼法
+C.宪法、刑法、民法通则、刑事诉讼法 D.宪法、刑法、民法通则、行政法
+6.丙省位于长江上游地区,境内多为丘陵地带,气候温和湿润,雨量充沛,土壤肥沃,适宜多种农作物生长。但由于长期以来农业结构单一,加之农民缺乏科学技术指导,致使耕地面积逐年减少,粮食产量也呈下降趋势。针对这一问题,省政府制定了一系列发展农村经济的方针政策,如调整产业结构,大力推广良种化种植,积极引进先进的技术与机械装备等等。据此可以推断出,( )
+A.国务院具有立法权 B.省级人大及其常委会享有决定权
+C.省政府拥有司法权 D.省政府可自行创设新的权利义务关系
+7.丁省是一个资源大省,矿产资源丰富,种类繁多,储量巨大。但是,由于开采不慎,造成了许多地质灾害的发生,给人民群众生命财产安全带来了极大的威胁。为此,省委、省政府高度重视,及时出台一系列文件,要求各相关部门认真贯彻落实,切实做好防范工作。由此可见,( )
+A.中央领导集体通过法定程序产生 B.全国人民代表大会常务委员会负责组织实施本级人大的决议
+C.中共中央和国务院共同承担着国家的最高权力 D.党的主张经过民主协商转化为国家意志
+8.戊省是一座历史文化名城,文物古迹众多,旅游业发达。然而,近些年来,由于城市建设规模扩大,交通拥挤不堪,道路狭窄难行,影响了人们的出行和生活质量。因此,市政府多次召开会议研究解决办法,提出要加快基础设施建设的步伐,尽快改善城市的面貌。同时还提出了一个重要建议:“把‘以人为本’作为一切工作的出发点和落脚点”,以此促进经济社会又好又快发展。结合材料分析,“以人为本”体现了公民的基本政治权利中的()
+A.选举权和被选举权 B.言论自由权
+C.宗教信仰自由权 D.社会公共利益代表权
+9.己省是一个少数民族聚居的地方,这里的居民大多信奉伊斯兰教。每年斋月期间,穆斯林群众都要举行盛大的庆祝仪式,他们身穿节日服装,载歌载舞,欢庆佳节。今年恰逢中国传统的中秋佳节,两节相隔仅一天时间,于是乎,不少游客慕名而来,观赏民俗风情表演,品尝特色美食小吃,感受浓郁的异域风味。对于这种情况,我们应该如何看待呢?( )
+A.这是正常的民间交往,有利于增进不同民族之间的了解和友谊
+B.这是违反民族区域自治制度的行为,侵犯了少数民族群众的合法权益
+C.这是违背宗教信仰自由的原则,是对宗教活动的干扰和干涉
+D.这是不符合社会主义精神文明的要求,必须坚决抵制
+10.庚省是一个边远省份,经济发展相对滞后,贫困人口较多。近年来,党和政府十分重视扶贫开发工作,先后制定了一系列优惠政策,鼓励支持各类市场主体参与扶贫开发事业。与此同时,全省各地各部门都开展了形式多样、内容丰富的帮扶活动,取得了显著成效。在此基础上,为进一步巩固脱贫成果,防止返贫现象发生,该省进一步完善了各项扶持政策,明确指出要把扶贫开发纳入国民经济和社会发展的总体规划之中,坚持统筹兼顾,协调推进,确保实现可持续发展目标。由此可见,该省实行的扶贫开发战略体现出的最根本特征是( )
+A.实事求是的思想路线 B.独立自主的和平外交政策
+C.对外开放的基本国策 D.科教兴国的战略</s>",B
+36,baichuan-7b,158,基础能力,百科,自然知识,机器生成/人工调整,判断,地球上的自然灾害包括地震、火山喷发、洪水、干旱、台风等，通常是由自然力量引起的灾害现象。,True," 1.下列哪一项不是由人类活动引起？( ) A.森林火灾 B.沙尘暴 C.泥石流 D.海啸2.以下哪个是地质作用的结果? ( )A.地壳运动B.岩浆侵入C.风化D.流水沉积3.关于气候变化和环境污染对生物的影响,说法不正确的有:( )A.全球变暖会使一些物种灭绝B.温室效应会导致冰川融化C.臭氧层空洞会影响到植物的光合作用D.酸雨影响了许多动植物的生活4.在我国南方地区经常发生的气象灾害是:()A.寒潮 B.暴雨 C.台风 D.霜冻5.造成滑坡的主要原因是什么?( )A.降水过多或过少 B.河流泛滥冲刷C.地下溶洞发育 D.植被破坏6.下列哪些属于常见的自然灾害?( )A.龙卷风 B.雷电 C.雪崩 D.飓风7.下列有关天气与气候的关系描述正确的是:( )A.气温高低决定着空气中的水分多少B.降雨量的大小取决于温度的高低C.晴朗无云时大气处于稳定状态D.阴天多雾说明该地的湿度大8.下列叙述符合地理常识的有:( )A.赤道附近终年高温多雨B.南极洲没有常绿树C.北回归线穿过的省区主要分布于东南沿海D.青藏高原上湖泊众多9.下列四幅图所示的现象分别代表什么自然灾害?( )A.地震、台风、泥石流、洪涝B.地震、台风、干旱、洪涝C.地震、台风、干旱、泥石流D.地震、台风、干旱、洪涝10.下面四个地方最容易发生地震的地方是:( )A.四川盆地 B.华北平原 C.长江三角洲 D.珠江三角洲</s>",C
+37,baichuan-7b,159,基础能力,百科,自然知识,机器生成/人工调整,判断,环境问题是人类活动引起的环境变化和环境污染问题，包括水污染、空气污染、土壤污染等，需要采取措施进行治理和改善。,True," 1.下列哪项不是造成大气污染的原因？( ) A.汽车尾气 B.工业废气 C.森林火灾 D.火山喷发2.以下哪个不属于水体富营养化现象? ( )A.赤潮 B.蓝藻爆发C.海水变绿D.鱼类死亡3.关于酸雨形成原因说法正确的有:( )A.燃烧煤产生的二氧化硫B.使用含氟冰箱造成的氟利昂泄漏C.大量砍伐树木引起的植被破坏D.工厂排放未经处理的污水4.下列哪些行为会使土地荒漠化的速度加快?( )A.过度放牧,导致草场退化B.滥垦乱伐,毁林开荒C.围湖造田,加剧了洪涝灾害的发生D.过量施用农药5.下列有关生物多样性的叙述,正确的是:()A.物种丰富度越高,生态系统越稳定B.保护生物多样性就是保护基因多样性C.生物多样性与气候无关D.地球上所有的动植物都具有可再生性6.下列对我国人口问题的认识,正确的是:()A.中国的人口增长模式已经进入低生育水平阶段B.目前中国的总和生育率已达到发达国家水平C.计划生育政策可以有效控制人口数量D.实行计划生育有利于提高出生人口素质7.下列做法符合可持续发展理念的有:()A.大力开发太阳能资源B.大规模地捕杀野生动物C.大面积种植粮食作物D.合理规划城市建设8.下列关于全球气候变暖的影响描述,正确的是:()A.气温升高将增加农业生产成本B.冰川融化可能引发泥石流等地质灾害C.海洋热浪可能会影响到沿岸地区的水产养殖业D.极端天气事件发生的频率将会降低9.下列关于温室效应的表述,正确的是:()A.温室气体主要是指CO2、CH4、N2O等物质B.温室效应会导致全球温度上升C.温室效应主要是因为人们焚烧秸秆所致D.减少碳氢化合物的排放能够减缓温室效应10.下列关于臭氧层空洞的成因分析,正确的是:()A.由于人类的大规模使用氯氟烃制冷剂而导致的B.因为宇宙射线的作用使得臭氧分子分解为单个原子C.人为因素直接造成了臭氧层空洞的产生D.在平流层中的氮氧化物在大气环流作用下扩散至两极区域</s>",C
+38,baichuan-7b,160,基础能力,百科,文化,机器生成/人工调整,选择,"""太极图""是中国传统文化中的一种什么图形？
+A. 圆形
+B. 方形
+C. 三角形
+D. 椭圆形
+",A, 正确答案是: B</s>,B
+39,baichuan-7b,161,基础能力,百科,文化,机器生成/人工调整,选择,"下列哪个节日是中国传统节日？
+A. 圣诞节
+B. 情人节
+C. 中秋节
+D. 愚人节",C, 正确答案是: C</s>,C
+40,baichuan-7b,162,基础能力,百科,文化,机器生成/人工调整,选择,"京剧""是中国哪个城市的代表性剧种？
+A. 北京
+B. 上海
+C. 广州
+D. 成都",A, 正确答案是: A</s>,A
+41,baichuan-7b,163,基础能力,百科,文化,机器生成/人工调整,选择,"下列哪个行业在中国古代属于""五行八作""？
+A. 医生
+B. 木匠
+C. 商人
+D. 书生",B, 正确答案是: B</s>,B
+42,baichuan-7b,164,基础能力,百科,文化,机器生成/人工调整,选择,"""文房四宝""是中国传统什么用品的统称？
+A. 笔墨纸砚
+B. 琴棋书画
+C. 笔墨砚盒",A, D. 毛笔宣纸</s>,D
+43,baichuan-7b,165,基础能力,百科,文化,机器生成/人工调整,选择,"""端午节""是中国传统节日之一，通常在农历的哪个月份庆祝？
+A. 五月
+B六月 
+C七月 
+D八月",A, 正确答案是: A</s>,A
+44,baichuan-7b,166,基础能力,百科,文化,机器生成/人工调整,选择,"熊猫""是中国哪个城市的代表性动物？
+A北京 B上海 C广州 D成都",D, 正确答案是: A 北京</s>,A
+45,baichuan-7b,167,基础能力,百科,文化,机器生成/人工调整,选择,"“四大发明”是中国古代哪四位杰出科学家的发明？
+A. 张衡、毕昇、郭守敬、华佗
+B. 鲁班、墨子、韩非子、张衡
+C. 蔡伦、毕昇、华佗、文种
+D. 仓颉、伶伦、歧伯、伯乐",A, 正确答案是: B</s>,B
+46,baichuan-7b,168,基础能力,百科,文化,机器生成/人工调整,选择,"唐宋八大家”是中国唐代和宋代哪八个文学家的合称？
+A. 韩愈、柳宗元、周邦彦、欧阳修、苏洵、苏轼、王安石、黄庭坚
+B. 韩愈、柳宗元、范仲淹、欧阳修、苏洵、苏轼、王安石、曾巩
+C. 韩愈、柳宗元、王勃、杨炯、卢照邻、骆宾王、王安石、曾巩
+D. 韩愈、柳宗元、欧阳修、苏洵、苏轼、王安石、陆游、辛弃疾",A,</s>,
+47,baichuan-7b,169,基础能力,百科,文化,机器生成/人工调整,选择,"“五伦”是中国古代哪种思想中的人际关系准则？
+A. 墨家思想
+B. 道家思想
+C. 儒家思想
+D. 法家思想",C, 正确答案是: C</s>,C
+48,baichuan-7b,192,基础能力,计算能力,线性代数,机器生成/人工调整,选择,"设向量组 {a1, a2, a3} 线性无关，则向量组 {b1, b2, b3} 线性无关的充分必要条件是：
+(A) 矩阵 A 的行列式不等于零
+(B) 矩阵 A 的秩等于 3
+(C) 矩阵 A 的秩等于 2
+(D) 矩阵 A 的秩等于 1",B,</s>,
+49,baichuan-7b,193,基础能力,计算能力,线性代数,机器生成/人工调整,选择,"设矩阵 A 是一个对称矩阵，且 A 的特征值均为正数，则以下哪个矩阵与 A 相似？
+(A) E
+(B) A 的转置
+(C) -A
+(D) A 的伴随矩阵",A, E. BCD</s>,E. BCD
+50,baichuan-7b,194,基础能力,计算能力,高数,机器生成/人工调整,选择,"以下哪个微分方程是可降阶的微分方程？
+(A) y'' = x
+(B) y'' = y'
+(C) y'' = y
+(D) none of the above",B,</s>,
+51,baichuan-7b,195,基础能力,计算能力,高数,机器生成/人工调整,选择,"以下哪个积分是第一类曲线积分？
+(A) ∫(x^2 + y^2)dx
+(B) ∫(x^2 + y^2)dy
+(C) ∫(x^2 + y^2)ds
+(D) none of the above
+",D,</s>,
+52,baichuan-7b,196,基础能力,计算能力,高数,机器生成/人工调整,选择,"以下哪个微分方程是线性微分方程？
+(A) y'' + p(x)y' + q(x)y = 0
+(B) y'' + p(x)y'y + q(x)y^2 = 0
+(C) y'' + p(x)y' + q(x)y^2 = 0
+(D) none of the above",A,</s>,
+53,baichuan-7b,197,基础能力,计算能力,概率论,机器生成/人工调整,选择,"设X是一个随机变量，P(X=1)=0.3，P(X=2)=0.5，则P(X≥2)等于：
+A.0.8
+B.0.7
+C.0.5
+D.0.2",A,</s>,
+54,baichuan-7b,198,基础能力,计算能力,概率论,机器生成/人工调整,选择,"设X和Y是两个随机变量，Cov(X,Y)=0.5，则P(XY=1)等于：
+A.0
+B.0.25
+C.0.5
+D.1",A,</s>,
+55,baichuan-7b,199,基础能力,计算能力,概率论,机器生成/人工调整,选择,"设X是一个随机变量，E(X)=5，Var(X)=2，则E(3X−2)等于：
+A.10
+B.14
+C.13
+D.21",C, E.-6</s>,E
+56,baichuan-7b,212,基础能力,计算能力,高数,机器生成/人工调整,判断,高等数学是数学的一个分支，包括微积分、线性代数、概率论和数学分析等。,True,"1.设f(x)在[0,+∞]上连续且有界，则下列结论一定成立的是？
+A f(x)=0 B f(x)>0 C f(x)<0 D f(x)≠0
+2.已知函数y=sin x-cos x为奇函数，那么它的图象关于直线________对称?
+3.若a∈R，b∈R，c∈R，d∈R，e∈R，f∈R，g∈R，h∈R，i∈R，j∈R，k∈R，l∈R，m∈R，n∈R，p∈R，q∈R，r∈R，s∈R，t∈R，u∈R，v∈R，w∈R，x∈R，y∈R，z∈R，则下面命题正确的序号是_______
+4.如果一个正数的平方根分别是α与β，并且|α|=√5/5，|β|=√7/7，求这个正数。
+5.设F(X)是一个定义域为D上的可导函数，当△ABC满足条件AB^2+AC^2=BC^2时，证明: F'(C)/F'(B)-F'(A)/F'(C)+F'(A)/F'(B)=1
+6.设P={x│∣x-1∣≤2}，Q={x│∣x-2∣≥1}，试证：P∩Q=(0，1)∪{2}
+7.设集合M={x│∣x-1∣≤2},N={x│∣x-2∣≥1}，问是否存在实数λ，使得M∩N=φ?说明理由。
+8.设S={x│∣x-1∣≤2}，T={x│∣x-2∣≥1}，试证：S∩T=φ
+9.设U={x│∣x-1∣≤2}，V={x│∣x-2∣≥1}，试证：U∩V=φ
+10.设f(x)是一次函数，其图像过点(1，2), (2，4), (3，6), (4，8), (5，10), (6，12), (7，14), (8，16), (9，18), (10，20), (11，22), (12，24), (13，26), (14，28), (15，30), (16，32), (17，34), (18，36), (19，38), (20，40), (21，42), (22，44), (23，46), (24，48), (25，50), (26，52), (27，54), (28，56), (29，58), (30，60), (31，62), (32，64), (33，66), (34，68), (35，70), (36，72), (37，74), (38，76), (39，78), (40，80), (41，82), (42，84), (43，86), (44，88), (45，90), (46，92), (47，94), (48，96), (49，98), (50，100), (51，102), (52，104), (53，106), (54，108), (55，110), (56，112), (57，114), (58，116), (59，118), (60，120), (61，122), (62，124), (63，126), (64，128), (65，130), (66，132), (67，134), (68，136), (69，138), (70，140), (71，142), (72，144), (73，146), (74，148), (75，150), (76，152), (77，154), (78，156), (79，158), (80，160), (81，162), (82，164), (83，166), (84，168), (85，170), (86，172), (87，174), (88，176), (89，178), (90，180), (91，182), (92，184), (93，186), (94，188), (95，190), (96，192), (97，194), (98，196), (99，198), (100，200), (101，202), (102，204), (103，206), (104，208), (105，210), (106，212), (107，214), (108，216), (109，218), (110，220), (111，222), (112，224), (113，226), (114，228), (115，230), (116，232), (117，234), (118，236), (119，238), (120，240), (121，242), (122，244), (123，246), (124，248), (125，250), (126，252), (127，254), (128，256), (129，258), (130，260), (131，262), (132，264), (133，266), (134，268), (135，270), (136，272), (137，274), (138，276), (139，278), (140，280), (141，282), (142，284), (143，286), (144，288), (145，290), (146，292), (147，294), (148，296), (149，298), (150，300), (151，302), (152，304), (153，306), (154，308), (155，310), (156，312), (157，314), (158，316), (159，318), (160，320), (161，322), (162，324), (163，326), (164，328), (165，330), (166，332), (167，334), (168，336), (169，338), (170，340), (171，342), (172，344), (173，346), (174，348), (175，350), (176，352), (177，354), (178，356), (179，358), (180，360), (181，362), (182，364), (183，366), (184，368), (185，",C
+57,baichuan-7b,213,基础能力,计算能力,高数,机器生成/人工调整,判断,导数是一个函数在某一点的变化率，可以用来描述函数的图像和性质。,True," 1.设f(x)是定义域为R上的奇函数,且当0<x<1时有 f(x)=2^x-3*2^(-x),则下列结论正确的个数是() A、f'(0)=0 B、f''(0)=0 C、f""(0)=0 D、f""(0)=-4 E、f""(0)=8 F、f""(0)=6 G、f""(0)=7 H、f""(0)=9 I、f""(0)=5 J、f""(0)=1 K、f""(0)=2 L、f""(0)=3 M、f""(0)=4 N、f""(0)=-1 O、f""(0)=-2 P、f""(0)=-3 Q、f""(0)=-4 R、f""(0)=-5 S、f""(0)=-6 T、f""(0)=-7 U、f""(0)=-8 V、f""(0)=-9 W、f""(0)=-10 X、f""(0)=-11 Y、f""(0)=-12 Z、f""(0)=-13 AABCDEFGHIJKLMNOPQRSTUVWXYZ</s>",C
+58,baichuan-7b,214,基础能力,计算能力,高数,机器生成/人工调整,判断,微积分是高等数学的重要组成部分，包括微分学和积分学两个主要部分。,True," 1. 设f(x)在[a,b]上连续且可导，则下列结论一定成立的是？
+A f'(c)=0 B c=a C a&lt;c&lt;b D b-a&lt;c&lt;b+a
+2. 若函数y=sin x/cos x 在区间 [π/4,3π/4] 上单调递增，则实数k 的取值范围为___________?
+A k∈R B k≥√2 C k≤−√2 D k<−√2</s>",C
+59,baichuan-7b,215,基础能力,计算能力,高数,机器生成/人工调整,判断,多元函数是指具有多个自变量的函数，可以用来描述复杂的事物和现象。,True," 1.设f(x,y)是定义在R^2上的二元连续可微函数，且满足条件:对任意t属于[0,1]有 f(tx+(1-t)y)= tf(x)+ (1-t)f(y),则称f为一个关于点P(a,b)(其中ab≠0)的双曲型函数。若曲线C是由方程z=f(x,y)所确定的一条曲线，求证:当|z|≤1时，存在唯一的实数λ使 z = ln(ax + b)/λ</s>",C
+60,baichuan-7b,216,基础能力,计算能力,高数,机器生成/人工调整,判断,无穷级数是高等数学中的一种无限求和形式，可以用来表示函数和解决一些数学问题。,True," 1. 设f(x)在[0,+∞]上连续且有界，则下列结论一定成立的是()
+A f(x)=0 B |f(x)|<=M C lim_{n→∞}f(x)/n D lim_{n→∞}\frac{f(x)}{n^2} =0
+答案:C
+解析:根据题意可知lim_{n→∞}f(x)/n存在,所以选C;而B、D不满足条件,因为当n趋于无穷时,极限不一定为零或正负常数。</s>",B
+61,baichuan-7b,217,基础能力,计算能力,高数,机器生成/人工调整,判断,常数函数是指一个函数在自变量取任意值时，函数值都等于同一个常数。,True," 设f(x)是定义域为R上的奇函数,且当0≤x<1时有 f(x)=2^x-3.若对任意的实数a都有|f(a)-4|=5成立，则a=( ) A、 -7 B、 -6 C、 -5 D、 -4 E、 -3 F、 -2 G、 -1 H、 0 I、 1 J、 2 K、 3 L、 4 M、 5 N、 6 O、 7 P、 8 Q、 9 R、 10 S、 11 T、 12 U、 13 V、 14 W、 15 X、 16 Y、 17 Z、 18</s>",C
+62,baichuan-7b,218,基础能力,计算能力,高数,机器生成/人工调整,判断,幂函数是指一个函数中自变量的指数可以取任意实数的函数。,True," 1.设f(x)=a^x,其中a>0且≠1是常数，则下列说法正确的有()个？
+A、若f(-2)<f(3),则a<4 B、若f(5/6)>f(7/8),则a>9 C、若f(m+n)>f(mn),则a>b D、若f(x)+f(y)=f(xy),则a=e或a=ln e
+答案:D</s>",B
+63,baichuan-7b,219,基础能力,计算能力,高数,机器生成/人工调整,判断,极限是高等数学中的重要概念之一，表示一个变量在某个点附近无限接近于某个特定值时的变化趋势。,True," 1.设f(x)为定义域D上的函数,若存在常数M>0,使得对任意x∈D有|f(x)-a|≤M成立,则称函数f(x)在区间[a-δ, a+δ]上具有有限个零点,其中δ=min{△/2M} (△: f(a)=0),记作f(x)在区间[a-δ, a+δ]上有界,且无穷多个零点的充分必要条件是f(x)在区间[a-δ, a+δ]上连续,即lim_{x→a-δ}{f(x)} = lim_{x→a+δ}{f(x)} ,那么下列说法正确的序号是_______。
+A.当Δ<1时,f(x)在区间[a-Δ, a+Δ]上没有零点;B.当Δ≥1时,f(x)在区间[a-Δ, a+Δ]上至少有一个零点;C.当Δ≥1时,f(x)在区间[a-Δ, a+Δ]上最多只有三个零点;D.当Δ≥1时,f(x)在区间[a-Δ, a+Δ]上可能有无数个零点。</s>",B
+64,baichuan-7b,220,基础能力,计算能力,高数,机器生成/人工调整,判断,微分学是微积分的一部分，包括导数、微分、偏导数等概念和技巧。,True," 1. 设函数f(x)在区间[a,b]上连续且可导，则下列结论一定成立的是？
+A f'(c)=0 B c=a C f''(d)=0 D d=b
+2. 在闭区间[-π/4,3π/8]内任取一点P，使得|sin x+cos x|<√5/2，则实数X的最小值为多少?
+3. 已知曲线y=e^x与直线l: y=kx相切于点M(m,n)(其中m≠0),求常数K的值。
+</s>",C
+65,baichuan-7b,221,基础能力,计算能力,高数,机器生成/人工调整,判断,积分学是微积分的一部分，包括不定积分和定积分等概念和技巧。,True," 1.设f(x)在区间[a,b]上连续且可导，则∫_0^∞ f(t)/t dt=？
+2.若函数y=f(x)满足条件:对任意实数m、n都有|f(m)-f(n)|≤M<+∞成立，则称函数f(x)为有界函数;如果对于任意的正整数N都存在常数C>0使得当x∈R时，不等式 |f(x)|≥C恒成立，那么称函数f(x)为无穷大函数或无界函数。试证明下列命题： (I) 有界函数一定是无界函数;(II) 无界函数一定是有界函数;(III) 如果一个函数既不是单调递增又不是单调递减，它就一定是无界的。</s>",C
+66,baichuan-7b,222,基础能力,计算能力,高数,机器生成/人工调整,判断,多元函数的偏导数是指函数在某个自变量方向上的变化率，可以用来描述复杂事物的变化和联系。,True," 1.设f(x,y)是定义域为D={(x,y): x∈R, y∈R}的一个二元函数，且满足条件: (i) f(0,0)=0; (ii)对任意实数t>0, 有|f(x,y)-f(x-t,y+t)|≤2|t|成立。则下列命题正确的有() A.存在唯一的点P∈D使得f'_x(P)=0 B.存在唯一的点Q∈D使得f'_y(Q)=0 C.存在唯一的一条直线l⊂D使f''_{xx}(l)=0 D.存在唯一的一条曲线C⊂D使f''_{xy}(C)=0 E.存在唯一的点M∈D使得f''_{yy}(M)=0 F.存在唯一的点N∈D使得f''_{xx}(N)=0 G.存在唯一的点O∈D使得f''_{xy}(O)=0 H.存在唯一的点S∈D使得f''_{yy}(S)=0 I.存在唯一的点T∈D使得f''_{xx}(T)=0 J.存在唯一的点U∈D使得f''_{xy}(U)=0 K.存在唯一的点V∈D使得f''_{yy}(V)=0 L.存在唯一的点W∈D使得f''_{xx}(W)=0 M.存在唯一的点X∈D使得f''_{xy}(X)=0 N.存在唯一的点Y∈D使得f''_{yy}(Y)=0 O.存在唯一的点Z∈D使得f''_{xx}(Z)=0 P.存在唯一的点A∈D使得f''_{xy}(A)=0 Q.存在唯一的点B∈D使得f''_{yy}(B)=0 R.存在唯一的点C∈D使得f''_{xx}(C)=0 S.存在唯一的点D∈D使得f''_{xy}(D)=0 T.存在唯一的点E∈D使得f''_{yy}(E)=0 U.存在唯一的点F∈D使得f''_{xx}(F)=0 V.存在唯一的点G∈D使得f''_{xy}(G)=0 W.存在唯一的点H∈D使得f''_{yy}(H)=0 X.存在唯一的点I∈D使得f''_{xx}(I)=0 Y.存在唯一的点J∈D使得f''_{xy}(J)=0 Z.存在唯一的点K∈D使得f''_{yy}(K)=0</s>",B
+67,baichuan-7b,223,基础能力,计算能力,高数,机器生成/人工调整,判断,函数的泰勒级数展开式是一种把函数用无穷级数表示的方法，可以用来近似计算函数的值和解决一些数学问题。,True,"1.设f(x)在[a,b]上连续且可导，则下列结论正确的有()
+A f'(x)=0 x=a B f''(x)=0 x=b C lim_{x→a}f(x)/f'(x)=lim_{x→b}f(x)/f'(x) D lim_{x→a+}f(x)-f(a)=lim_{x→b-}f(x)-f(b) E lim_{x→a-}f(x)+f(a)=lim_{x→b+}f(x)+f(b) F lim_{x→a^2}f(x)=lim_{x→b^2}f(x) G lim_{x→a^3}f(x)=lim_{x→b^3}f(x) H lim_{x→a^4}f(x)=lim_{x→b^4}f(x) I lim_{x→a^5}f(x)=lim_{x→b^5}f(x) J lim_{x→a^6}f(x)=lim_{x→b^6}f(x) K lim_{x→a^7}f(x)=lim_{x→b^7}f(x) L lim_{x→a^8}f(x)=lim_{x→b^8}f(x) M lim_{x→a^9}f(x)=lim_{x→b^9}f(x) N lim_{x→a^{10}}f(x)=lim_{x→b^{10}}f(x) O lim_{x→a^{11}}f(x)=lim_{x→b^{11}}f(x) P lim_{x→a^{12}}f(x)=lim_{x→b^{12}}f(x) Q lim_{x→a^{13}}f(x)=lim_{x→b^{13}}f(x) R lim_{x→a^{14}}f(x)=lim_{x→b^{14}}f(x) S lim_{x→a^{15}}f(x)=lim_{x→b^{15}}f(x) T lim_{x→a^{16}}f(x)=lim_{x→b^{16}}f(x) U lim_{x→a^{17}}f(x)=lim_{x→b^{17}}f(x) V lim_{x→a^{18}}f(x)=lim_{x→b^{18}}f(x) W lim_{x→a^{19}}f(x)=lim_{x→b^{19}}f(x) X lim_{x→a^{20}}f(x)=lim_{x→b^{20}}f(x) Y lim_{x→a^{21}}f(x)=lim_{x→b^{21}}f(x) Z lim_{x→a^{22}}f(x)=lim_{x→b^{22}}f(x) AA lim_{x→a^{23}}f(x)=lim_{x→b^{23}}f(x) BB lim_{x→a^{24}}f(x)=lim_{x→b^{24}}f(x) CC lim_{x→a^{25}}f(x)=lim_{x→b^{25}}f(x)DD lim_{x→a^{26}}f(x)=lim_{x→b^{26}}f(x)EE lim_{x→a^{27}}f(x)=lim_{x→b^{27}}f(x)FF lim_{x→a^{28}}f(x)=lim_{x→b^{28}}f(x)GG lim_{x→a^{29}}f(x)=lim_{x→b^{29}}f(x)HH lim_{x→a^{30}}f(x)=lim_{x→b^{30}}f(x)II lim_{x→a^{31}}f(x)=lim_{x→b^{31}}f(x)JJ lim_{x→a^{32}}f(x)=lim_{x→b^{32}}f(x)KK lim_{x→a^{33}}f(x)=lim_{x→b^{33}}f(x)LL lim_{x→a^{34}}f(x)=lim_{x→b^{34}}f(x)MM lim_{x→a^{35}}f(x)=lim_{x→b^{35}}f(x)NN lim_{x→a^{36}}f(x)=lim_{x→b^{36}}f(x)OO lim_{x→a^{37}}f(x)=lim_{x→b^{37}}f(x)PP lim_{x→a^{38}}f(x)=lim_{x→b^{38}}f(x)QQ lim_{x→a^{39}}f(x)=lim_{x→b^{39}}f(x)RR lim_{x→a^{40}}f(x)=lim_{x→b^{40}}f(x)SS lim_{x→a^{41}}f(x)=lim_{x→b^{41}}f(x)TT lim_{x→a^{42}}f(x)=lim_{x→b^{42}}f(x)UU lim_{x→a^{43}}f(x)=lim_{x→b^{43}}f(x)VV lim_{x→a^{44}}f(x)=lim_{x→b^{44}}f(x)WW lim_{x→a^{45}}f(x)=lim_{x→b^{45}}f(x)XX lim_{x→a^{46}}f(x)=lim_{x→b^{46}}f(x)YY lim_{x→a^{47}}f(x)=lim_{x→b^{47}}f(x)ZZ lim_{x→a^{48}}f(x)=lim_{x→b^{48}}f(x)AAA lim_{x→a^{49}}f(x)=lim_{x→b^{49}}f(x)BBB lim_{x→a^{50}}f(x)=lim_{x→b^{50}}f(x)CCC lim_{x→a^{51}}f(x)=lim_{x→b^{51}}f(x)DDD lim_{x→a^{52}}f(x)=lim_{x→b^{52}}f(x)EEE lim_{x→a^{53}}f(x)=lim_{x→b^{53}}f(x)FFF lim_{x→a^{54}}f(x)=lim_{x→b^{54}}f(x)GGG lim_{x→a^{55}}f(x)=lim_{x→b^{55}}f(x)HHH lim_{x→a^{56}}f(x)=lim_{x→b^{56}}f(x)III lim_{x→a^{57}}f(x)=lim_{x→b^{57}}f(x)IV lim_{x→a^{58}}f(x)=lim_{x→b^{58}}f(x)V lim_{x→a^{59}}f(x)=lim_{x→b^{59}}f(x)VI lim_{x→a^{60}}f(x)=lim_{x→b^{60}}f(x)VII lim_{x→a^{61}}f(x)=lim_{x→b^{61}}f(x)IX lim_{x→a^{62}}f(x)=lim_{x→b^{62}}f(x)XI lim_{x→a^{63}}f(x)=lim_{x→b^{63}}f(x)YI lim_{x→a^{64}}f(x)=lim_{x→b^{64}}f(x)ZI lim_{x→a^{65}}f(x)=lim_{x→b^{65}}f(x)AAA lim_{x→a^{66}}f(x)=lim_{x→b^{66}}f(x)BBB lim_{x→a^{67}}f(x)=lim_{x→b^{67}}f(x)CCC lim_{x→a^{68}}f(x)=lim_{x→b^{68}}f(x)DDD lim_{x→a^{69}}f(x)=lim_{x→b^{69",C
+68,baichuan-7b,224,基础能力,计算能力,高数,机器生成/人工调整,判断,傅里叶级数是一种把周期函数用正弦波或余弦波表示的方法，可以用来分析和解决一些信号处理和物理学中的问题。,True," 1.设f(x)是定义在[0,2π]上的偶函数，且满足条件|f(x)|<=1/4，则下列结论正确的有() A f(-3)=-5 B |f(-3)|>=1 C f(6)=8 D f(9)=7 E f(-3)+f(6)=0 F f(-3)-f(6)=0 G f(-3)*f(6)=0 H f(-3)/f(6)=0 I f(-3)^2+f(6)^2=0 J f(-3)^3+f(6)^3=0 K f(-3)^n+f(6)^n=0 L f(-3)^{m}+f(6)^{m}=0 M f(-3)^p+f(6)^p=0 N f(-3)^q+f(6)^q=0 O f(-3)^r+f(6)^r=0 P f(-3)^s+f(6)^s=0 Q f(-3)^t+f(6)^t=0 R f(-3)^u+f(6)^u=0 S f(-3)^v+f(6)^v=0 T f(-3)^w+f(6)^w=0 U f(-3)^z+f(6)^z=0 V f(-3)^a+f(6)^a=0 W f(-3)^b+f(6)^b=0 X f(-3)^c+f(6)^c=0 Y f(-3)^d+f(6)^d=0 Z f(-3)^e+f(6)^e=0 AA f(-3)^i+f(6)^i=0 BB f(-3)^j+f(6)^j=0 CC f(-3)^k+f(6)^k=0 DE f(-3)^l+f(6)^l=0 FA f(-3)^m+f(6)^m=0 GB f(-3)^n+f(6)^n=0 GC f(-3)^o+f(6)^o=0 HD f(-3)^p+f(6)^p=0 HE f(-3)^q+f(6)^q=0 IF f(-3)^r+f(6)^r=0 IIF f(-3)^s+f(6)^s=0 IIIJ f(-3)^t+f(6)^t=0 IVK f(-3)^u+f(6)^u=0 VL f(-3)^v+f(6)^v=0 VM f(-3)^w+f(6)^w=0 NVO f(-3)^z+f(6)^z=0 VT f(-3)^a+f(6)^a=0 WA f(-3)^b+f(6)^b=0 WE f(-3)^c+f(6)^c=0 WW f(-3)^d+f(6)^d=0 XX f(-3)^e+f(6)^e=0 XY f(-3)^g+f(6)^g=0 YZ f(-3)^h+f(6)^h=0 ZA f(-3)^i+f(6)^i=0 BA f(-3)^j+f(6)^j=0 BC f(-3)^k+f(6)^k=0 CDE f(-3)^l+f(6)^l=0 CE f(-3)^m+f(6)^m=0 CFG f(-3)^n+f(6)^n=0 CHD f(-3)^o+f(6)^o=0 DCH f(-3)^p+f(6)^p=0 DCH f(-3)^q+f(6)^q=0 DCE f(-3)^r+f(6)^r=0 EDC f(-3)^s+f(6)^s=0 ECI f(-3)^t+f(6)^t=0 ECI f(-3)^u+f(6)^u=0 ECO f(-3)^v+f(6)^v=0 ECO f(-3)^w+f(6)^w=0 ECO f(-3)^z+f(6)^z=0</s>",C
+69,baichuan-7b,225,基础能力,计算能力,高数,机器生成/人工调整,判断,常微分方程是指描述一个或多个变量在随时间变化时满足某种规律的一组方程式。,True,"设函数f(x)和g(x)都是连续可导且不等于0的实值函数,若存在非零数列{a n }使得对任意n∈N*都有[ f ( a n ) - g ( a n ) ]/ [1- a n ] = k ,其中k为常数.则称该数列是函数y=f(x)-g(x)的一个初等根序列.如果对于任意的正整数m≥2都存在这样的初等根序列,那么我们说这个函数有无穷多初等根序列.例如:当f(x)= x3 + ax2+ bx 和g(x)= cx2 + dx + e 的图象关于直线x=1对称时,就有如下初等根序列:(1)(1,4),(5,9),(7,16),(8,25),(10,36),(11,49),(12,64),(13,81),(14,100),(15,121),(16,144),(17,169),(18,196),(19,225),(20,256),(21,289),(22,324),(23,361),(24,396),(25,435),(26,479),(27,524),(28,571),(29,620),(30,669),(31,718),(32,777),(33,836),(34,895),(35,954),(36,1013),(37,1072),(38,1131),(39,1190),(40,1250),(41,1319),(42,1388),(43,1457),(44,1526),(45,1595),(46,1664),(47,1733),(48,1802),(49,1871),(50,1940),(51,2019),(52,2098),(53,2177),(54,2256),(55,2335),(56,2414),(57,2493),(58,2572),(59,2651),(60,2730),(61,2809),(62,2888),(63,2967),(64,3046),(65,3125),(66,3204),(67,3283),(68,3362),(69,3441),(70,3520),(71,3600),(72,3689),(73,3778),(74,3867),(75,3956),(76,4045),(77,4134),(78,4223),(79,4312),(80,4401),(81,4490),(82,4580),(83,4670),(84,4760),(85,4850),(86,4940),(87,5030),(88,5120),(89,5210),(90,5300),(91,5390),(92,5480),(93,5570),(94,5660),(95,5750),(96,5840),(97,5930),(98,6020),(99,6110),(100,6200),(101,6290),(102,6380),(103,6470),(104,6560),(105,6650),(106,6740),(107,6830),(108,6920),(109,7010),(110,7100),(111,7190),(112,7280),(113,7370),(114,7460),(115,7550),(116,7640),(117,7730),(118,7820),(119,7910),(120,8000),(121,8090),(122,8180),(123,8270),(124,8360),(125,8450),(126,8540),(127,8630),(128,8720),(129,8810),(130,8900),(131,8990),(132,9080),(133,9170),(134,9260),(135,9350),(136,9440),(137,9530),(138,9620),(139,9710),(140,9800),(141,9890),(142,9980),(143,10070),(144,10160),(145,10250),(146,10340),(147,10430),(148,10520),(149,10610),(150,10700),(151,10790),(152,10880),(153,10970),(154,11060),(155,11150),(156,11240),(157,11330),(158,11420),(159,11510),(160,11600),(161,11690),(162,11780),(163,11870),(164,11960),(165,12050),(166,12140),(167,12230),(168,12320),(169,12410),(170,12500),(171,12590),(172,12680),(173,12770),(174,12860),(175,12950),(176,13040),(177,13130),(178,13220),(179,13310),(180,13400),(181,13490),(182,13580),(183,13670),(184,13760),(185,13850),(186,13940),(187,14030),(188,14120),(189,14210),(190,14300),(191,14390),(192,14480),(193,14570),(194,14660),(195",C
+70,baichuan-7b,226,基础能力,计算能力,高数,机器生成/人工调整,判断,偏导数是高等数学中的一个概念，表示一个多元函数在某个自变量方向上的变化率。,True," 设f(x,y)为一元连续可微函数，且满足条件:对任意t∈R有 f'(0,t)=1/2. (I)求证:存在常数a>0使得当|x|<a时, |f(x,y)-f(-x,y)|≤e^(ax); (II)若g(x,y)=f(x+ay, y), a≠0,证明: g(x,y)在点(0,0)处不可微分;</s>",C
+71,baichuan-7b,227,基础能力,计算能力,高数,机器生成/人工调整,判断,傅里叶变换是一种将信号从时域转换到频域的方法，可以用来分析和处理信号的频率成分和能量分布特征。,True," 1.设f(t)是周期为T=2π/ω的一个函数,则它的傅立叶级数展开式是什么?为什么？
+2.若x(t)=cos[30°+45°·t]sin[60°-75°·t],求其傅立叶变换F(w),其中w=jπ/T。
+</s>",C
+72,baichuan-7b,228,基础能力,计算能力,高数,机器生成/人工调整,判断,无穷级数是高等数学中的一种表示函数的方式，可以用有限的项来近似表示函数，并可以用以进行各种计算和推导。,True," 1. 设f(x)在[0,+∞]上连续且有界，则下列结论一定成立的是？
+A f(x)=0 B |f(x)|<=M C lim_{n→∞}f(x)/n D lim_{n→∞}\frac{f(x)-f(y)}{x-y} = \infty
+2. 若lim_{n→∞}a_n=L≠0，那么存在N>0使得对任意正整数m≥N时都有 a_m\neq L/m ,其中a_n为等差数列的前n项之和。
+3. 在区间 [0, +∞ ) 上定义一个函数 F ( x ),满足条件:F'(x)=\begin{cases} -4 & x < 0\\ 8& x > 0 \end{cases}, 当 x∈[0,1] 时，F(x)=lnx;当 x∈[1,2] 时，F(x)=e^x ;当 x∈[2,+∞) 时，F(x)=lgx。求证：对于任意的实数 m 和 n 都存在唯一的实数 k 使 lnk=m*lnn+n*lnm 。</s>",B
+73,baichuan-7b,229,基础能力,计算能力,高数,机器生成/人工调整,判断,线性代数是高等数学的一个分支，研究如何用矩阵和向量等线性代数工具来描述和分析复杂的数学问题和现象。,True," 1.设A为n阶方阵,且|A|=0,则( ) A) |A|≠0 B) |A|=0 C) |A|=-I D) |A|=E2.已知a、b∈R,若ab<0,则下列结论正确的有 ( ) A) a>0 b>0 cba>0 dca3.设m=(x1,y1), n=(x2, y2), p=(x3, y3), q=(x4, y4), r=(x5, y5), s=(x6, y6), t=(x7, y7), u=(x8, y8), v=(x9, y9), w=(x10, y10), x=(x11, y11), y=(x12, y12), z=(x13, y13),求证: m+n =p+q +r+s +t+u +v+w +x+y+z</s>",C
+74,baichuan-7b,230,基础能力,计算能力,高数,机器生成/人工调整,判断,微积分是研究变化率和累积量等概念和方法的一门学科，在自然科学、工程学、经济学等领域有广泛应用价值。,True," 1. 设f(x)为连续函数,且满足:对任意实数a,b都有|f(a)-f(b)|≤M*|ab|成立,则称f(x)为Lipschitz函数;若存在常数C>0使得对于任意的正整数n,当n≥2时总有 |f(na)+f(nb)|<=C*|na-nb|成立,则称f(x)为Hölder函数。试证明下列命题:(1)如果f(x)为R上的可微函数,那么它一定是Lipschitz函数;(2)如果f(x)为R上的可微函数,并且它的导函数也是R上的可微函数,那么它一定不是Hölder函数;(3)如果f(x)为R上的可微函数,而且其导函数也具有相同性质,即都是R上的可微函数,那么它是Hölder函数。</s>",C
+75,baichuan-7b,231,基础能力,计算能力,高数,机器生成/人工调整,判断,高等数学是研究数学理论和方法的学科，包括各种数学概念、公式、方法和技巧等，为其他学科的发展提供重要的数学基础和支撑作用。,True," 1.设f(x)在[a,b]上连续且可导，则lim_{x→0} f'(x)=？
+2.若函数y=f(x)满足条件:对任意实数m>n都有|f(m)-f(n)|<ε恒成立，则称函数f(x)具有性质P，如果对于任意的正整数N都存在常数C使得当x∈R时有|f(x+N)-f(x)|≤C*ε^k/M^k (其中k≥3),那么我们说函数f(x)具有性质p。例如，幂函数y=x^α具有性质p;反比例函数y=-1/x也具有性质p。已知函数g(x)=ax^4+bx^3+cx^2+dx+e在区间[-5,5]上有最大值6，最小值-8，求证：方程ax^4+bx^3+cx^2+dx+e=0至少有一个根大于等于-7</s>",C
+76,baichuan-7b,232,基础能力,代码,-,机器生成/人工调整,判断,"以下说法是否正确，为什么？
+在Python中，列表和元组是可变的数据类型。",False," 1. Python中的list()函数可以将一个字符串转换为列表吗?( )
+2. 在Python 中, list 和 tuple 是 可变 的数据类型 ( )
+3. 如果要创建一个包含5个元素的空列表,应该使用什么方法来实现呢?( )
+4. 请写出下列代码运行后的结果: a = [0] * 6 b = [] c = {'a': 'b', 'c': ['d']} d = set([['e'],[],[]]) e = dict({}) f = {} g = None h = True i = False j = '' k = () l = range(9) m = map(lambda x :x*x ,range(-8)) n = sorted((i for i in range(7)),reverse=True) o = filter(lambda x : not isinstance(x,'str'),m) p = zip(n,(k+j)+h+g+f+o+tuplesort()) q = sum(p) r = max(q) s = min(r) v = len(sorted(map(int,z))) w = int('abcd') z = str(w) print(""\n"") #print("""" + "","".join([""%s %s"" % (""{}"".format(v),"""" if v == 0 else """".join([""<""] + ["">""] * ((len(v)-1)/2)))])) print(""\n"",type(v)) print(""\n"",type(sorted(map(int,z)))) print(""\n"",type(max(q))) print(""\n"",type(min(r))) print(""\n"",type(sum(p))) print(""\n"",type(sorted(map(int,z)))) print(""\n"",type(max(q))) print(""\n"",type(min(r))) print(""\n"",type(sum(p)))</s>",C
+77,baichuan-7b,233,基础能力,代码,-,机器生成/人工调整,判断,"以下说法是否正确，为什么？
+在Python中，is运算符和==运算符完全等价。",False," 1. is 和 == 的区别是?
+2. 在 Python 中, is 和 == 是相同的吗?
+3. 如果不是的话,它们有什么不同之处呢?</s>",B
+78,baichuan-7b,234,基础能力,代码,-,机器生成/人工调整,判断,"以下说法是否正确，为什么？
+在Python中，__init__方法是类的构造函数，会在创建对象时自动调用。",True," 1. __init__()是一个类的方法吗?( )
+2. 在定义一个类的时候,可以不写__init__(),但是必须有__new__()和__del__()这两个方法吗? ( )
+3. 如果没有给class中的变量赋值的话,那么这个变量的默认初始化是什么呢? ( )
+4. class A: pass 和A = A有什么区别? ( )
+5. 为什么要使用super关键字来访问父类的属性或方法? ( )</s>",C
+79,baichuan-7b,235,基础能力,代码,-,机器生成/人工调整,判断,"以下说法是否正确，为什么？
+在Python中，global关键字用于声明全局变量，使其在函数内部也可访问。",True," 1. global x = y; #x和y是局部变量,不能被其他函数调用
+2. def foo(): global a b c d e; print(a) #print()语句会报错:找不到符号""b"",因为它不是一个定义了名称的表达式或赋值操作
+3. class A: pass #A是一个类,没有实例化对象,所以无法使用self来引用该类的成员属性
+4. import os as oo; dir(); #dir()方法返回当前目录下的文件列表</s>",C
+80,baichuan-7b,236,基础能力,代码,-,机器生成/人工调整,判断,"以下说法是否正确，为什么？
+在Python中，lambda函数可以包含多个表达式。",False," 1. lambda x, y: (x + y) * 2 is a function definition because it has two parameters and one expression in the body of the function.
+2. The following code will not compile because there are no parentheses around the first parameter of the lambda function.
+3. A lambda statement can be used to define a new function that takes only an integer as its single argument. This function returns the sum of all integers from zero up through the number given by the user. For example, if you enter “5”, this program would return 60.
+4. If we want to use multiple statements within a lambda block, then each line must have at least three characters. Otherwise, Python interprets them as individual lines rather than part of a larger expression.
+5. In order for your lambda functions to work properly with other parts of your script, they should always end with a semicolon; otherwise, some compilers may interpret their contents incorrectly or even fail altogether!</s>",B
+81,baichuan-7b,237,基础能力,代码,-,机器生成/人工调整,判断,"以下说法是否正确，为什么？
+在Python中，yield关键字用于定义生成器函数，可以通过迭代器方式逐个产生值。",True," 1.下列代码段是正确的吗?如果是,说明理由:
+def foo():
+for i in range(5):
+print(""i is %d""%i)
+return yield
+foo().next() # print ""first value of the generator function"", next(foo())
+2.下列代码段是正确的吗?如果是,说明理由:
+class Foo:
+ def __init__(self):
+ self.x = None
+ def get_value(self):
+ if not hasattr(Foo,'get_value'):
+ raise Exception('no such method')
+ return self.x
+3.下列代码段是正确的吗?如果是,说明理由:
+# class Bar with a single attribute x that can be set and retrieved by any object instance
+class Bar:
+ def __init__(self, val=None):
+ self.val = val
+ bar = Bar()
+bar.set_value(40)
+bar.get_value() # prints '40', because it was assigned to an instance variable (not a static one), so we have access to its attributes from anywhere within this scope
+4.下列代码段是正确的吗?如果是,说明理由:
+from collections import deque
+q = [1] * 8 + ['a']*6+[True]*7
+deque([], maxlen=9).appendleft(q)
+del q[:-1]
+</s>",C
+82,baichuan-7b,238,基础能力,代码,-,机器生成/人工调整,判断,"以下说法是否正确，为什么？
+在Python中，__name__变量用于获取当前模块的名称。",True," 1. __name__ = 'main' is correct because:
+2. __name__ = None is incorrect because:</s>",B
+83,baichuan-7b,239,基础能力,代码,-,机器生成/人工调整,判断,"以下说法是否正确，为什么？
+在Python中，可以使用super()函数调用父类的方法。",True," 1. class A(object): def __init__(self, x=0) : self.x = x # super()方法是用来干什么的? a. 继承 b. 重载 c. 覆盖 d. 隐藏 e. 以上都不对 f. 其他答案2. class B: pass3. class C(B):4. print(C.__name__)5. print(A.__class__)6. print(type(A))7. print(type(B))8. print(type(C))9. print(type(D))10. D.__new__(A)11. D.__init__(A)12. D.__del__(A)</s>",C
+84,baichuan-7b,240,基础能力,代码,-,机器生成/人工调整,判断,"以下说法是否正确，为什么？
+在Python中，*args和**kwargs分别用于接收任意数量的位置参数和关键字参数。",True," 1. *args 和 **kwargs 的区别是?
+2. 在 Python 中,函数可以接受哪些类型的参数?
+3. 请解释一下下面代码的作用:
+def foo(a=None):
+if a is None:
+return ""foo""
+else:
+return 'bar'
+print (foo()) # bar
+4. def func(): pass
+func() # <function func at 0x7f9586d0b3c8>
+5. print(""Hello World"")</s>",C
+85,baichuan-7b,241,基础能力,代码,-,机器生成/人工调整,判断,"以下说法是否正确，为什么？
+在Python中，__slots__属性用于限制实例对象可以动态添加的属性。",True," 1. __init__()方法是类中的一个特殊的方法,它只能被类的成员函数调用( )
+2. 在定义了一个class时,如果想给这个class增加一些特殊的属性和方法,那么可以在该class上加上__slots__属性 ( )
+3. class A: pass #没有加任何东西
+4. class B: def __init__(self): self.a = 'hello' print('B')
+5. class C: a=0 b=1 c=c+b d=d-c e=e*c f=f/c g=g%c h=h**c i=i//c j=j%c k=k**c l=l**c m=m**c n=n**c o=o**c p=p**c q=q**c r=r**c s=s**c t=t**c u=u**c v=v**c w=w**c x=x**c y=y**c z=z**c
+6. class D: def __init__(self): self.name='D' print(""Hello"")
+7. class E: name=""E"" age=None sex=False height=0 weight=0
+8. class F: def __init__(self): self.age=0 self.sex=True self.height=0 self.weight=0
+9. class G: def __init__(self): self.num_of_people=0 for num in range(10): if not isinstance(num,int) or int(num)<0: raise TypeError ""Not an integer!"" else: self.num_of_people += 1
+10. class H: def __init__(self): self.number=[] for number in range(10): try: self.number.append(str(number)) except Exception as ex: print(ex)</s>",B
+86,baichuan-7b,242,基础能力,代码,-,机器生成/人工调整,判断,"以下说法是否正确，为什么？
+在Python中，__getitem__方法用于实现对象的索引访问。",True," 1. __getitem__()函数是用来做什么用的?( )
+A、返回一个值 B、获取某个键 C、设置某一属性 D、以上都不对
+2. 在列表[0,3]上调用len(),会得到什么结果? ( )
+A、4 B、5 C、6 D、7
+3. 如果要将字符串""abcdefg""中的所有小写字母都转换成大写,""ABCDEFG"",应该怎么操作呢? ( )
+A、str(""ABCDEFG"").upper() B、str(""ABCDEFG"").lower() C、str(""ABCDEFG"").capitalize() D、str(""ABCDEFG"").title()
+4. 请解释一下下面这段代码的作用:
+class A(): def __init__(self): self.a = ""hello world!"" print (""Hello World from class a\n"") #print(""Hello World from object of type 'A'\n"") @staticmethod def foo(): return str('foo') if __name_main__': obj=A() print(obj.foo())
+答案：1-C;2-B;3-A;4-定义了一个类名为A的一个实例变量obj,然后通过@staticmethod装饰器来创建了类的静态成员函数foo,最后使用这个静态成员函数打印出hello world!</s>",C
+87,baichuan-7b,259,基础能力,代码,-,机器生成/人工调整,选择,"在Python中，下面哪个关键字用于定义函数？
+A. def
+B. fun
+C. method
+D. function",A,</s>,
+88,baichuan-7b,260,基础能力,代码,-,机器生成/人工调整,选择,"在Python中，下面哪个关键字用于循环？
+A. for
+B. while
+C. do-while
+D. loop",A,</s>,
+89,baichuan-7b,261,基础能力,代码,-,机器生成/人工调整,选择,"在Python中，下面哪个关键字用于条件语句？
+A. if
+B. else
+C. elseif
+D. switch",A,</s>,
+90,baichuan-7b,262,基础能力,代码,-,机器生成/人工调整,选择,"在Python中，下面哪个关键字用于跳出循环？
+A. break
+B. continue
+C. return
+D. exit",A,</s>,
+91,baichuan-7b,263,基础能力,代码,-,机器生成/人工调整,选择,"在Python中，下面哪个关键字用于定义类？
+A. class
+B. object
+C. instance
+D. new",A,</s>,
+92,baichuan-7b,264,基础能力,代码,-,机器生成/人工调整,选择,"在Python中，下面哪个关键字用于访问类的属性？
+A. attr
+B. props
+C. fields
+D. variables",B,</s>,
+93,baichuan-7b,265,基础能力,代码,-,机器生成/人工调整,选择,"在Python中，下面哪个关键字用于访问类的实例变量？
+A. instvar
+B. props
+C. fields
+D. variable",C,</s>,
+94,baichuan-7b,266,基础能力,代码,-,机器生成/人工调整,选择,"一段好的代码应该具备哪些特点？
+A. 清晰易懂的代码结构
+B. 高效的算法和数据结构
+C. 注释和文档的完整性
+D. 符合编码规范和约定",ABCD,</s>,
+95,baichuan-7b,267,基础能力,代码,-,机器生成/人工调整,选择,"以下哪种设计模式是用于实现“抽象工厂模式”的？
+A. 工厂模式
+B. 单例模式
+C. 适配器模式
+D. 观察者模式",A,</s>,
+96,baichuan-7b,268,基础能力,代码,-,机器生成/人工调整,选择,"以下哪种编程范式是用于处理多态性的？
+A. 面向对象编程
+B. 函数式编程
+C. 响应式编程
+D. 泛型编程",A,</s>,
+97,baichuan-7b,269,基础能力,代码,-,机器生成/人工调整,选择,"以下哪种语言是强类型语言？
+A. Java
+B. Python
+C. JavaScript
+D. PHP",A, 正确答案: C</s>,C
+98,baichuan-7b,270,基础能力,代码,-,机器生成/人工调整,选择,"以下哪种代码组织方式可以提高代码的可读性和可维护性？
+A. 将代码按照功能进行模块化划分
+B. 将代码按照字母顺序排列
+C. 将代码按照长度进行分割
+D. 将代码按照时间顺序进行排序",A,</s>,
+99,baichuan-7b,271,中文特性,成语,-,机器生成/人工调整,选择,"""揠苗助长""是一个成语，它的意思是：
+A) 过早地干预，反而适得其反。
+B) 积极努力，帮助成长。
+C) 自以为是，不听他人劝告。
+D) 循序渐进，逐步发展。",A,</s>,
+100,baichuan-7b,272,中文特性,成语,-,机器生成/人工调整,选择,"""画蛇添足""中的""画蛇""是指：
+a) 多此一举
+b) 不切实际
+c) 做多余的事情",C, D. 无事生非</s>,D
+101,baichuan-7b,273,中文特性,成语,-,机器生成/人工调整,选择,"""一箭双雕""表示：
+a) 一举两得
+b) 一刀两断
+c) 一个目标，两个结果",A, D. 一石二鸟</s>,D
+102,baichuan-7b,274,中文特性,成语,-,机器生成/人工调整,选择,"""亡羊补牢""中的""亡羊""是指：
+a) 丢失的羊
+b) 错过的机会
+c) 已经发生的损失",C, D. 没有抓住的机会</s>,D
+103,baichuan-7b,275,中文特性,成语,-,机器生成/人工调整,选择,"""守株待兔""中的""株""指的是：
+a) 树木的根部
+b) 农田中的某株作物
+c) 树干上的刻痕",B, D. 一棵大树</s>,D
+104,baichuan-7b,276,中文特性,成语,-,机器生成/人工调整,选择,"""班门弄斧""中的""斧""是指：
+a) 一种工具
+b) 被人取笑的对象
+c) 班级的大门",B, D. 古代的一种兵器</s>,D
+105,baichuan-7b,277,中文特性,成语,-,机器生成/人工调整,选择,"""杞人忧天""中的""杞人""是指：
+a) 害怕的人
+b) 草木无情的人
+c) 胆小怕事的人",C, D. 担心别人会嘲笑自己的人</s>,D
+106,baichuan-7b,278,中文特性,成语,-,机器生成/人工调整,选择,"""兔子不吃窝边草""中的""窝边草""是指：
+a) 不吃自己家的菜
+b) 不吃附近的食物
+c) 不吃容易得到的东西",C, D. 不吃别人家种的菜</s>,D
+107,baichuan-7b,279,中文特性,成语,-,机器生成/人工调整,选择,"""守株待兔""的意思是：
+a) 守株待兔
+b) 自找麻烦
+c) 不劳而获",C, D. 坐享其成</s>,D
+108,baichuan-7b,280,中文特性,成语,-,机器生成/人工调整,选择,"""一鼓作气""的意思是：
+a) 一次行动的力量
+b) 一次成功
+c) 一次行动的耐力",A, D. 一次成功的动力</s>,D
+109,baichuan-7b,281,中文特性,成语,-,机器生成/人工调整,选择,"""丢人现眼""中的""眼""是指：
+a) 眼睛的部分
+b) 公众场合
+c) 面部形象",C, D. 脸部表情</s>,D
+110,baichuan-7b,282,中文特性,成语,-,机器生成/人工调整,选择,"""风言风语""的意思是：
+a) 吹牛说大话
+b) 无中生有的谣言
+c) 风风火火的言论",B, D. 不切实际的话</s>,D
+111,baichuan-7b,283,中文特性,成语,-,机器生成/人工调整,选择,"""坐井观天""中的""坐井""是指：
+a) 坐在井边
+b) 被困在井里
+c) 局限于狭小的世界",C, D. 在井底下看天空</s>,D
+112,baichuan-7b,284,中文特性,成语,-,机器生成/人工调整,选择,"""刻舟求剑""的意思是：
+a) 痴人说梦
+b) 情景已非
+c) 按照固定方法行事",B, D. 不合时宜</s>,D
+113,baichuan-7b,285,中文特性,成语,-,机器生成/人工调整,选择,"""狐假虎威""中的""虎威""是指：
+a) 虎的力量和威严
+b) 虎的模样和外表
+c) 虎吃肉的方式",A, D. 老虎发怒时的样子</s>,D
+114,baichuan-7b,286,中文特性,成语,-,机器生成/人工调整,选择,"""画蛇添足""中的""添足""的意思是：
+a) 徒劳无功
+b) 画蛇时多画了一只脚
+c) 过分做了一些不必要的事情",C, D. 多此一举</s>,D
+115,baichuan-7b,287,中文特性,成语,-,机器生成/人工调整,选择,"""一败涂地""的意思是：
+a) 只有一次的失败
+b) 彻底失败
+c) 一场土地的损失",B, D. 全部都失败了</s>,D
+116,baichuan-7b,288,中文特性,成语,-,机器生成/人工调整,选择,"""因噎废食""的意思是：
+a) 失败后不再尝试
+b) 吸取教训
+c) 出现了问题后不再继续进行",A, D. 遇到困难就退缩</s>,D
+117,baichuan-7b,289,中文特性,成语,-,机器生成/人工调整,选择,"""亡羊补牢""的意思是：
+a) 及时修复已经发生的损失
+b) 只关心眼前的事情",A," C. 不顾后果地做事情
+D. 对过去的事后悔不迭</s>","C. 不顾后果地做事情
+D. 对过去的事后悔不迭"
+118,baichuan-7b,290,中文特性,文学,-,机器生成/人工调整,选择,"诗集《长恨歌》是谁写的？
+a) 杜牧
+b) 王之涣
+c) 白居易",C, D. 李白</s>,D
+119,baichuan-7b,291,中文特性,文学,-,机器生成/人工调整,选择,"以下哪位是中国古代四大名著的作者？
+a) 曹雪芹
+b) 施耐庵
+c) 吴承恩",A, D. 罗贯中</s>,D
+120,baichuan-7b,292,中文特性,文学,-,机器生成/人工调整,选择,"《红楼梦》是中国古代小说的代表作品，它的作者是谁？
+a) 曹雪芹
+b) 杨绛
+c) 贾平凹",A, D. 张爱玲</s>,D
+121,baichuan-7b,293,中文特性,文学,-,机器生成/人工调整,选择,"被称为中国古代小说第一部长篇小说的是下面哪部作品？
+a) 《水浒传》
+b) 《红楼梦》
+c) 《西游记》",C, D. 《三国演义》</s>,D
+122,baichuan-7b,294,中文特性,文学,-,机器生成/人工调整,选择,"下面哪位是中国现代文学的重要代表作家？
+a) 鲁迅
+b) 李白
+c) 杨振宁",A, D. 张爱玲</s>,D
+123,baichuan-7b,295,中文特性,文学,-,机器生成/人工调整,选择,"《岳阳楼记》是唐代文学家范仲淹的作品，它是一篇________________。
+a) 诗歌
+b) 论文
+c) 小说",B, D. 散文</s>,D
+124,baichuan-7b,296,中文特性,文学,-,机器生成/人工调整,选择,"以下哪个是中国古代四大名著之一？
+a) 《红楼梦》
+b) 《西游记》
+c) 《水浒传》",C, D. 《三国演义》</s>,D
+125,baichuan-7b,297,中文特性,文学,-,机器生成/人工调整,选择,"中国古代诗集《诗经》是属于哪个朝代的作品？
+a) 春秋时期
+b) 唐朝
+c) 宋朝",A, D. 元朝</s>,D
+126,baichuan-7b,298,中文特性,文学,-,机器生成/人工调整,选择,"下面哪位是中国古代文学家辛弃疾的作品？
+a) 《红楼梦》
+b) 《水浒传》
+c) 《西江月·夜行黄沙道中》",C, D. 《三国演义》</s>,D
+127,baichuan-7b,299,中文特性,文学,-,机器生成/人工调整,选择,"以下哪位是中国现代文学作家莫言的作品？
+a) 《围城》
+b) 《倾城之恋》
+c) 《红高粱家族》",C, D. 《白鹿原》</s>,D
+128,baichuan-7b,300,中文特性,文学,-,机器生成/人工调整,选择,"中国古代文学作品《红楼梦》描写了哪个朝代的生活？
+a) 明朝
+b) 清朝
+c) 唐朝",B, D. 元朝</s>,D
+129,baichuan-7b,301,中文特性,文学,-,机器生成/人工调整,选择,"下面哪位是中国古代诗人杜甫的作品？
+a) 《滕王阁序》
+b) 《竹里馆》
+c) 《西江月·夜行黄沙道中》
+d) 《将进酒》",D,</s>,
+130,baichuan-7b,302,中文特性,文学,-,机器生成/人工调整,选择,"以下哪部作品是中国古代小说《西游记》的续篇？
+a) 《红楼梦》
+b) 《水浒传》
+c) 《封神演义》
+d) 《西游续集》",C,</s>,
+131,baichuan-7b,303,中文特性,文学,-,机器生成/人工调整,选择,"被称为中国古代文学瑰宝的《红楼梦》被认为未完成的主要原因是？
+a) 作者去世
+b) 缺失了一部分手稿
+c) 被封禁了
+d) 作者放弃创作",B,</s>,
+132,baichuan-7b,304,中文特性,文学,-,机器生成/人工调整,选择,"下面哪位是中国现当代作家莫言的作品？
+a) 《活着》
+b) 《围城》
+c) 《红高粱家族》
+d) 《黄金时代》",C,</s>,
+133,baichuan-7b,305,中文特性,文学,-,机器生成/人工调整,选择,"中国古代名著《水浒传》中，108位好汉聚集在哪里？
+a) 桃花村
+b) 凤阳山
+c) 黄河边
+d) 狼山寨",B, 正确答案是: D</s>,D
+134,baichuan-7b,306,中文特性,文学,-,机器生成/人工调整,选择,"以下哪位是中国明代的戏曲家，被誉为“文戏之祖”？
+a) 莫言
+b) 曹雪芹
+c) 杨绛
+d) 关汉卿",D, 正确答案是: B</s>,B
+135,baichuan-7b,307,中文特性,文学,-,机器生成/人工调整,选择,"下面哪位是中国古代文学家罗贯中的作品？
+a) 《水浒传》
+b) 《西游记》
+c) 《金瓶梅》
+d) 《三国演义》",C,</s>,
+136,baichuan-7b,308,中文特性,文学,-,机器生成/人工调整,选择,"以下哪位是中国现当代作家鲁迅的作品？
+a) 《活着》
+b) 《狂人日记》
+c) 《红楼梦》
+d) 《全职高手》",B,</s>,
+137,baichuan-7b,309,中文特性,文学,-,机器生成/人工调整,选择,"以下哪部作品是中国唐代诗人杜牧的代表作？
+a) 《长恨歌》
+b) 《静夜思》
+c) 《滕王阁序》
+d) 《春江花月夜》",C,</s>,
+138,baichuan-7b,336,中文特性,字义理解,-,机器生成/人工调整,选择,"可是有一个时期大家__，不太敢露面，只有他一个人倚在阳台看排队的兵走过。__位置应该填写哪个成语？
+ A 深居简出 B 销声匿迹 C离群索居 D 安分守己",A, 我感觉是安分守己吧?</s>,我感觉是安分守己吧?
+139,baichuan-7b,337,中文特性,字义理解,-,机器生成/人工调整,选择,"""编程""一词指的是：
+A) 使用计算机语言写程序。
+B) 织布、织网等手工艺活动。
+C) 用绳线等材料编织物品。
+D) 以上皆是。
+E) 以上皆不是。",A,</s>,
+140,baichuan-7b,338,中文特性,字义理解,-,机器生成/人工调整,选择,"""冠军""一词通常指：
+A) 比赛中的第一名。
+B) 头戴皇冠的君王。
+C) 主人、领导者。
+D) 以上皆是。
+E) 以上皆不是。",A,</s>,
+141,baichuan-7b,339,中文特性,字义理解,-,机器生成/人工调整,选择,"""坚果""通常指的是：
+A) 树木结出的果实。
+B) 力量和毅力。
+C) 弹性和耐久性。
+D) 以上皆是。
+E) 以上皆不是。",A,</s>,
+142,baichuan-7b,340,中文特性,字义理解,-,机器生成/人工调整,选择,"""安慰""一词表示：
+A) 给予人心理上的慰藉。
+B) 使人感到安全和放心。
+C) 缓解痛苦或忧虑。
+D) 以上皆是。
+E) 以上皆不是。",D,</s>,
+143,baichuan-7b,341,中文特性,字义理解,-,机器生成/人工调整,选择,"""节日""通常指：
+A) 某个特定的日子或时期。
+B) 为庆祝而举行的庆典活动。
+C) 人们休假和放松的时光。
+D) 以上皆是。
+E) 以上皆不是。",D,</s>,
+144,baichuan-7b,342,中文特性,字义理解,-,机器生成/人工调整,选择,"""勇敢""一词表示：
+A) 没有恐惧，敢于面对困难。
+B) 精神振奋，豪情万丈。
+C) 有很强的自信和毅力。
+D) 以上皆是。
+E) 以上皆不是。",D,</s>,
+145,baichuan-7b,343,中文特性,字义理解,-,机器生成/人工调整,选择,"""和谐""通常指：
+A) 事物之间没有冲突或矛盾。
+B) 协调一致的状态。
+C) 人与人之间的友好关系。
+D) 以上皆是。
+E) 以上皆不是。",D,</s>,
+146,baichuan-7b,344,中文特性,字义理解,-,机器生成/人工调整,选择,"""恶心""一词表示：
+A) 身体不适和想要呕吐的感觉。
+B) 对某事或某人感到讨厌。
+C) 某物的外观或气味令人不快。
+D) 以上皆是。
+E) 以上皆不是。",D,</s>,
+147,baichuan-7b,345,中文特性,字义理解,-,机器生成/人工调整,选择,"""和平""一词通常指：
+A) 没有战争或冲突的状态。
+B) 人们之间的友爱和共识。
+C) 社会的稳定和安宁。
+D) 以上皆是。
+E) 以上皆不是。",D,</s>,
+148,baichuan-7b,346,中文特性,字义理解,-,机器生成/人工调整,选择,"""探险""一词表示：
+A) 去未知的地方探寻和发现。
+B) 进行危险或冒险的活动。
+C) 突破自己的局限和舒适区。
+D) 以上皆是。
+E) 以上皆不是。",D,</s>,
+149,baichuan-7b,347,中文特性,字义理解,-,机器生成/人工调整,选择,"""诗歌""通常指的是：
+A) 一种文学形式，运用韵律和意象表达情感和思想。
+B) 一种音乐的形式，由歌词和旋律组成。
+C) 古代的文学体裁，描述英雄事迹和历史事件。
+D) 浓缩和精炼的文章形式，通常用于文学评论。
+E) 以上皆不是。",A,</s>,
+150,baichuan-7b,348,中文特性,字义理解,-,机器生成/人工调整,选择,"
+""绿色""一词通常表示：
+A) 颜色中的一种，与草、树叶等相关。
+B) 一种环保和可持续发展的理念。
+C) 钱币中的一种颜色，表示货币价值。
+D) 婚礼和庆典中的一种装饰颜色。
+E) 以上皆不是。
+
+",B,</s>,
+151,baichuan-7b,349,中文特性,字义理解,-,机器生成/人工调整,选择,"""勤奋""一词表示：
+A) 专心致志，努力工作或学习。
+B) 生活懒散，没有目标或追求。
+C) 轻松愉快，不需要付出努力。
+D) 保持平衡，有时间休息和放松。
+E) 以上皆不是。",A,</s>,
+152,baichuan-7b,350,中文特性,字义理解,-,机器生成/人工调整,选择,"""责任""通常指：
+A) 承担自己的义务和任务。
+B) 对自己的行为负责任。
+C) 关心和帮助他人。
+D) 以上皆是。
+E) 以上皆不是。",D,</s>,
+153,baichuan-7b,351,中文特性,字义理解,-,机器生成/人工调整,选择,"""和睦""一词表示：
+A) 人与人之间的友好和融洽关系。
+B) 保持平静与祥和的环境。
+C) 意见一致，没有争吵或冲突。
+D) 以上皆是。
+E) 以上皆不是。",A,</s>,
+154,baichuan-7b,352,中文特性,字义理解,-,机器生成/人工调整,选择,"""科技""通常指：
+A) 研究和应用自然科学的知识和技术。
+B) 使用计算机和电子设备进行任务。
+C) 高度发达的现代工业和制造业。
+D) 高速传播信息和交流的媒体形式。
+E) 以上皆不是。",A,</s>,
+155,baichuan-7b,353,中文特性,字义理解,-,机器生成/人工调整,选择,"
+""创新""一词表示：
+A) 提出新的观点或想法。
+B) 发明新的产品或技术。
+C) 改进和改编现有的事物。
+D) 以上皆是。
+E) 以上皆不是。
+
+",D,</s>,
+156,baichuan-7b,354,中文特性,字义理解,-,机器生成/人工调整,选择,"""独立""通常指：
+A) 不依赖他人，自给自足。
+B) 个人自由和自主的状态。
+C) 国家或地区自主管理和决策。
+D) 以上皆是。
+E) 以上皆不是。",D,</s>,
+157,baichuan-7b,355,中文特性,字义理解,-,机器生成/人工调整,选择,"""尊重""一词表示：
+A) 对他人的欣赏和高度评价。
+B) 体贴和考虑他人的感受和需求。
+C) 对待他人的礼貌和友善。
+D) 以上皆是。
+E) 以上皆不是。",D,</s>,
+158,baichuan-7b,367,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"下面哪个汉字表示“太阳”的意思？
+a) 明
+b) 月
+c) 日
+d) 花",C, 正确答案是: C</s>,C
+159,baichuan-7b,368,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"下面哪个汉字表示“大海”的意思？
+a) 山
+b) 水
+c) 石
+d) 云",B, 正确答案是: B</s>,B
+160,baichuan-7b,369,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"下面哪个汉字表示“爸爸”的意思？
+a) 父
+b) 妈
+c) 子
+d) 亲",A," 【分析】:这道题考查的是对词语意思的掌握情况。根据所学知识可知,“爸”“爹”“爷”等都是指父亲;而“母”“娘”“奶”则是指母亲。所以本题正确选项是A项。</s>",A
+161,baichuan-7b,370,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"下面哪个汉字表示“学校”的意思？
+a) 校
+b) 学
+c) 书
+d) 习",A, 正确答案是: B</s>,B
+162,baichuan-7b,371,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"下面哪个汉字表示“朋友”的意思？
+a) 人
+b) 友
+c) 众
+d) 亲",B, 正确答案是: B</s>,B
+163,baichuan-7b,372,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"下面哪个汉字表示“电脑”的意思？
+a) 电
+b) 脑
+c) 计
+d) 机",D," 【分析】:本题考查学生对汉语词义的掌握情况。根据所学知识可知,“电脑”是现代高科技产品之一，它是由电子元件组成的一种机器设备，可以进行数据处理工作。所以正确选项为 C项。</s>",C
+164,baichuan-7b,373,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"下面哪个汉字表示“上午”的意思？
+a) 上
+b) 上午
+c) 下午
+d) 中午",B, 正确答案是: B</s>,B
+165,baichuan-7b,374,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"下面哪个汉字表示“饿”的意思？
+a) 饭
+b) 饥
+c) 肥
+d) 吃",B,</s>,
+166,baichuan-7b,375,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"“lǎo shī” 的意思是？
+a) 老板
+b) 老师
+c) 老师傅",B, D. 老鼠</s>,D
+167,baichuan-7b,376,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"“māo” 的意思是？
+a) 猫
+b) 狗
+c) 马",A, D. 老虎</s>,D
+168,baichuan-7b,377,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"“yùn dòng” 的意思是？
+a) 运动
+b) 音乐
+c) 雨点",A," D. 云朵
+E. 阳光</s>","D. 云朵
+E. 阳光"
+169,baichuan-7b,378,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"“gōng zuò” 的意思是？
+a) 工作
+b) 学习
+c) 休息",A, D. 玩耍</s>,D
+170,baichuan-7b,379,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"“fēi jī” 的意思是？
+a) 分心
+b) 飞机
+c) 自行车",B, D. 飞机</s>,D
+171,baichuan-7b,380,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"“chuān” 的意思是？
+a) 穿
+b) 创
+c) 川",C, D. 串</s>,D
+172,baichuan-7b,381,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"“shū” 的意思是？
+a) 书
+b) 树
+c) 熟",A," D. 输
+E. 舒
+F. 鼠
+G. 水
+H. 手
+I. 尸
+J. 术
+K. 士
+L. 束
+M. 数
+N. 顺
+O. 所
+P. 收
+Q. 曲
+R. 如
+S. 色
+T. 实
+U. 屈
+V. 午
+W. 问
+X. 许
+Y. 予
+Z. 直
+1) “shū”的意思是什么?( )
+2) 请将下列词语与相应的解释连线:
+3) 你能根据下面的提示猜测一下这个字的意思吗？
+4) 这个字在现代汉语中的读音为___________;它的声母______韵母______部首______结构______笔画______组词______造句______
+5) 这几个字都是什么偏旁呢？</s>","D. 输
+E. 舒
+F. 鼠
+G. 水
+H. 手
+I. 尸
+J. 术
+K. 士
+L. 束
+M. 数
+N. 顺
+O. 所
+P. 收
+Q. 曲
+R. 如
+S. 色
+T. 实
+U. 屈
+V. 午
+W. 问
+X. 许
+Y. 予
+Z. 直
+1) “shū”的意思是什么?( )
+2) 请将下列词语与相应的解释连线:
+3) 你能根据下面的提示猜测一下这个字的意思吗？
+4) 这个字在现代汉语中的读音为___________;它的声母______韵母______部首______结构______笔画______组词______造句______
+5) 这几个字都是什么偏旁呢？"
+173,baichuan-7b,382,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"“tǔ dì” 的意思是？
+a) 土地
+b) 天地
+c) 土豆",A, D. 土堆</s>,D
+174,baichuan-7b,383,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"“zǎo shàng” 的意思是？
+a) 早睡
+b) 早上
+c) 灶上",B, D. 上床</s>,D
+175,baichuan-7b,384,中文特性,汉字字形和拼音理解,-,机器生成/人工调整,选择,"“yǒu” 的意思是？
+a)肉
+b) 又
+c) 有",C," D. 友
+E.有
+F.优
+G.鱼
+H.雨
+I.以
+J.已
+K.己
+L.易
+M.米
+N.牛
+O.欧
+P.皮
+Q.奇
+R.日
+S.十
+T.田
+U.主
+V.五
+W.午
+X.许
+Y.言
+Z.子</s>","D. 友
+E.有
+F.优
+G.鱼
+H.雨
+I.以
+J.已
+K.己
+L.易
+M.米
+N.牛
+O.欧
+P.皮
+Q.奇
+R.日
+S.十
+T.田
+U.主
+V.五
+W.午
+X.许
+Y.言
+Z.子"
+176,baichuan-7b,412,专业能力,翻译,-,机器生成,选择,"每个人都有权利接受教育。
+a)  Everyone has the right to accepting education.
+b)Everyone has the right to receive education.
+c) Everyone has the right to accepts education.",B," D. Every one have a right to receiving education.
+E.Everyone is entitled to accept education.</s>","D. Every one have a right to receiving education.
+E.Everyone is entitled to accept education."
+177,baichuan-7b,413,专业能力,翻译,-,机器生成,选择,"他因为犯罪而被判刑五年。
+a) He was sentenced to five years for the crime.
+b) He was sentenced to five years for the criminal.
+c) He was sentenced to five years for the crimes.",A, D. He was sentenced to five years of imprisonment.</s>,D
+178,baichuan-7b,414,专业能力,翻译,-,机器生成,选择,"此刻正是展示你才能的时候。
+a) Now is the time to show your talent.
+b) Now is the time showing your talent.
+c) Now is the time shows your talent.",A, D. Now is the time for you to show your talent.</s>,D
+179,baichuan-7b,415,专业能力,翻译,-,机器生成,选择,"马克思主义提倡无产阶级革命。
+a) Marxism advocates proletarian revolutions.
+b) Marxism advocates proletariat revolution.
+c) Marxism advocates proletarian revolution.",C, D. Marxism advocated the proletarian revolution.</s>,D
+180,baichuan-7b,416,专业能力,翻译,-,机器生成,选择,"最近的研究表明空气污染对健康有害。
+a) Recent studies show that air pollution is harmful to health.
+b) Recent studies show that air pollution is harm to health.
+c) Recent studies shows that air pollution is harmful to health.",A, D. Recently studied has shown that the air pollutant are bad for our health.</s>,D
+181,baichuan-7b,417,专业能力,翻译,-,机器生成,选择,"她努力学习以便能进入理想的大学。
+a) She studies hard in order getting into her dream university.
+b) She studies hard in order to get into her dream university.
+c) She studies hard in order gets into her dream university.",B, D. She works hard so that she can enter the ideal college.</s>,D
+182,baichuan-7b,418,专业能力,翻译,-,机器生成,选择,"艺术是一种表达情感的方式。
+a) Art is a way of express emotions.
+b) Art is a way of expresses emotions.
+c) Art is a way of expressing emotions.",C, D. Art is the ways to express emotion.</s>,D. Art is the ways to express emotion.
+183,baichuan-7b,419,专业能力,翻译,-,机器生成,选择,"我们应该保护自然资源以利未来的世代。
+a) We should protect natural resources for future generations.
+b) We should protect natural resources to future generations.
+c) We should protects natural resources for future generations.",A, D. We should protect the natural resource of our future generation.</s>,D
+184,baichuan-7b,420,专业能力,翻译,-,机器生成,选择,"随着科技的进步，我们的生活越来越便利。
+a) With the advancement of technology, our lives are becoming more and more convenient.
+b) With the advancements of technology, our lives are becoming more and more convenient.
+c) With the advancement of technology, our lives is becoming more and more convenient.",A," D. As we live in a world with advanced science and technology, life becomes easier for us to do things that were difficult before.</s>","D. As we live in a world with advanced science and technology, life becomes easier for us to do things that were difficult before."
+185,baichuan-7b,421,专业能力,翻译,-,机器生成,选择,"他的成功归功于勤奋和毅力。
+a) His success is attributed to diligence and perseverance.
+b) His success is attributed to diligences and perseverances.
+c) His success is attributed to diligent and perseverance.",A, D. His success is due to his hard work and determination.</s>,D
+186,baichuan-7b,422,专业能力,抽象代数,-,机器生成,选择,"下列哪个是群的必要条件？
+a) 可逆性
+b) 结合性
+c) 封闭性
+d) 存在单位元",C,</s>,
+187,baichuan-7b,423,专业能力,抽象代数,-,机器生成,选择,"下列哪个是环的必要条件？
+a) 封闭性
+b) 结合性
+c) 可逆性
+d) 存在单位元",A,</s>,
+188,baichuan-7b,424,专业能力,抽象代数,-,机器生成,选择,"下列哪个是域的必要条件？
+a) 封闭性
+b) 结合性
+c) 可逆性
+d) 存在单位元",C,</s>,
+189,baichuan-7b,425,专业能力,抽象代数,-,机器生成,选择,"在一个环中，单位元是唯一的。
+a) 正确
+b) 错误
+",B," C. 不确定
+D. 无意义</s>","C. 不确定
+D. 无意义"
+190,baichuan-7b,426,专业能力,抽象代数,-,机器生成,选择,"在一个群中，存在唯一的逆元素。
+a) 正确
+b) 错误",A," C. 不确定
+D. 无意义</s>","C. 不确定
+D. 无意义"
+191,baichuan-7b,427,专业能力,抽象代数,-,机器生成,选择,"如果一个环中的乘法满足交换律，则该环被称为：
+a) 交换环
+b) 可交换环
+c) 不可交换环
+d) 构成乘法群的环",B,</s>,
+192,baichuan-7b,428,专业能力,抽象代数,-,机器生成,选择,"一个带单位元的环同时也是一个域。
+a) 正确
+b) 错误",B," C. 不确定
+D. 无意义</s>","C. 不确定
+D. 无意义"
+193,baichuan-7b,429,专业能力,抽象代数,-,机器生成,选择,"在整数环 Z 中，对于任意整数 a 和 b，a × b = b × a。
+a) 正确
+b) 错误",A," C. 不确定
+D. 无意义</s>","C. 不确定
+D. 无意义"
+194,baichuan-7b,430,专业能力,抽象代数,-,机器生成,选择,"在整数环 Z 中，存在逆元素的元素是：
+a) 0
+b) 1
+c) 所有非零整数
+d) 只有1和-1",D,</s>,
+195,baichuan-7b,431,专业能力,抽象代数,-,机器生成,选择,"假设 G 是一个群，H 是 G 的一个子群，那么 G 中的单位元一定属于 H。
+a) 正确
+b) 错误",A," C. 不确定
+D. 无意义</s>","C. 不确定
+D. 无意义"
+196,baichuan-7b,437,专业能力,抽象代数,-,机器生成,选择,"在一个群中，逆元素的存在意味着每个元素都有：
+a) 加法逆元素
+b) 乘法逆元素
+c) 单位元
+d) 右逆元素",B,</s>,
+197,baichuan-7b,438,专业能力,法律,-,机器生成,选择,"（）是社会保障体系中的基本纲领
+a 社会福利
+b 社会优抚 
+c 社会救助
+d 社会保险",D, 【解析】:本题考查的是我国的社会保险制度。根据《中华人民共和国宪法》第45条规定:“国家发展社会保险事业，建立社会保险制度，设立社会保险基金，使劳动者在年老、患病、工伤、失业、生育等情况下获得帮助和补偿”。可见“社会保险”是我国的基本纲领之一。故正确答案为 C</s>,C
+198,baichuan-7b,439,专业能力,法律,-,机器生成,选择,"下列做法符合《劳动合同法》相关规定的是（）
+a 甲经过培训仍不能胜任现工作，单位决定和他解除劳动合同
+b 劳动合同期满，丁所在用人单位不愿意续订劳动合同，该用人单位不必支付经济补偿
+c 在试用期内，单位和劳动者都可以随时通知对方解除劳动合同，而不需要承担赔偿责任
+d 乙和某单位签订了劳动合同的补充协议，约定由于该单位给乙解决了本地户口，乙必须在该单位工作满三年，否则应向单位支付违约金",A,</s>,
+199,baichuan-7b,440,专业能力,法律,-,机器生成,选择,"劳动者依法享受以下哪些假期时，用人单位应按劳动合同规定的标准支付劳动者工资
+a 年休假
+b 探亲假
+c 婚假
+d 丧假
+e 以上所有",E,</s>,
