@@ -1,5 +1,5 @@
 # 目录
----------
+
 
 * [模型评测简介](#模型测评简介)
   * [评测宗旨](#评测宗旨)
@@ -16,7 +16,7 @@
 
 
 # 模型测评简介
------------
+
 
 ## 评测宗旨
 目前大多数针对大模型评测集中在两方面，一个是传统的NLU任务（语义理解，情感分析等）或者传统的NLP指标，另一个是更加与人类对齐的大规模权威性考试，然而实际生活中，我们更加关注模型在中文领域的实用性，即中文领域的大模型是否具有帮助人类解决具体任务的能力，为此，我们设计了中文领域大模型评测，构建了一个能够衡量「**模型是否好用**」的评测数据集。
@@ -36,12 +36,30 @@
 2. 加入人工测评来保证结果的准确性, 同时思考模型测评如何向人工测评对齐
 3. 细化我们的结果分析，例如，更加客观地展现人类/模型测评员测评中的偏好带来的结果偏差问题。
 
-# 模型测评一期主要结果
------------
+  
 
+# 模型测评一期主要结果
+## 三大综合能力榜单
+![img.png](pics/scoreboard_of_the_three_capability.png)
+### 基础能力细分榜单
+![img.png](pics/basic_capability_radar_chart.png)
+![img.png](pics/basic_capability_scoreboard.png)
+### 中文特性细分榜单
+![img.png](pics/chinese_radar_chart.png)
+![img_2.png](pics/chinese_scoreboard.png)
+### 专业能力细分榜单
+![img_3.png](pics/professional_capability_radar_chart.png)
+![img_4.png](pics/professional_capability_scoreboard.png)
+## 客观题主观题打分结果
+### 客观题
+![img_6.png](pics/objective_question_acc.png)
+### 主观题
+- **三维度ChatGPT排序标准化得分**
+![img_7.png](pics/score_of_rank_in_subjective_question.png)
+- **三维度ChatGPT打分标准化得分**
+![img_8.png](pics/score_from_3_dimension_in_subjective_question.png)
 
 # 实验代码说明
------------
 
 当前repo主要包括以下几个部分
 
