@@ -68,7 +68,7 @@
 详情参考```src/prompt```。
 
 ## 大模型推理
-目前支持llama|moss|glm|baichuan|gptq系模型的推理，推理基于HF框架，也可以支持[fastllm](#https://github.com/ztxz16/fastllm)框架(针对chatglm系列)，后续会兼容更多高效推理框架。
+目前支持llama|moss|glm|baichuan|gptq系模型的推理，推理基于HF框架，也可以支持[fastllm](https://github.com/ztxz16/fastllm)框架(针对chatglm系列)，后续会兼容更多高效推理框架。
 - **使用方法**
 ```
 python llm_inference.py --model_name chatglm /
@@ -77,11 +77,12 @@ python llm_inference.py --model_name chatglm /
  --data_path your_data_path /
  --device 0  /
  --temperature 0 --top_p 1 --top_k 100 --rep_penalty 1.1
+ --use_fastllm (optional for chatglm only)
 ```
 
 ## 主观题自动评测(第一期为ChatGPT进行的自动评测)
 我们让ChatGPT从三个维度来评价主观题的答案：**有效性、可靠性、流畅性。** 
-参考了Sunweiwei等人的工作[RankGPT](#https://github.com/sunnweiwei/RankGPT)以及复旦大学的模型评测工作[llm-eval](#https://github.com/llmeval/llmeval-1)，我们最终选择了以下两种大模型评测方式：RankingGPT 和 ScoringGPT。
+参考了Sunweiwei等人的工作[RankGPT](https://github.com/sunnweiwei/RankGPT)以及复旦大学的模型评测工作[llm-eval](https://github.com/llmeval/llmeval-1)，我们最终选择了以下两种大模型评测方式：RankingGPT 和 ScoringGPT。
 - RankingGPT：根据上述三个维度，我们让ChatGPT针对一个问题中所有大模型的回答（包含人工设定的参考答案）进行排序，得出1-7名。
 - ScoringGPT：根据上述三个维度，我们让ChatGPT对每个模型的主观题回答分别进行打分，每个维度得分为从1-3分，每个分数都定义了一个具体标准，同时让模型认为参考答案的分数为满分（3，3，3）。
 详情参考 ```scr/eval_agent```，使用示例见```auto-eval-with-chatgpt-examples.ipynb```。
