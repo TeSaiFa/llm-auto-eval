@@ -1,7 +1,0 @@
-,effectiveness,reliability,fluency,model_name,fullmarks
-0,2.884,2.8,2.96,chatglm,3.0
-1,2.868,2.8,2.988,davinci-003,3.0
-2,2.492,2.684,2.948,chinese-alpaca-13b,3.0
-3,2.832,2.748,2.968,chatglm2,3.0
-4,1.912,2.04,2.544,moss-sft,3.0
-5,1.976,2.128,2.404,baichuan-7b,3.0
