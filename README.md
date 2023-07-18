@@ -77,7 +77,7 @@ python llm_inference.py --model_name chatglm /
  --data_path your_data_path /
  --device 0  /
  --temperature 0 --top_p 1 --top_k 100 --rep_penalty 1.1 /
- --use_fastllm (optional for chatglm only)
+ --use_fastllm (optional for chatglm only) 
 ```
 
 ## 主观题自动评测(第一期为ChatGPT进行的自动评测)
