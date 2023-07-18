@@ -76,7 +76,7 @@ python llm_inference.py --model_name chatglm /
  --model_type [llama|moss|glm|baichuan|gptq] /
  --data_path your_data_path /
  --device 0  /
- --temperature 0 --top_p 1 --top_k 100 --rep_penalty 1.1
+ --temperature 0 --top_p 1 --top_k 100 --rep_penalty 1.1 /
  --use_fastllm (optional for chatglm only)
 ```
 
