@@ -29,7 +29,7 @@
 所以我们将关注的模型能力划定为**基础能力**、**中文特性**、**专业能力**三大一级分类，并在每个一级分类下设置了更多的二级小分类，以此为标准建立了我们的评测数据集。\
 更多数据集的**详细信息**请点击[特赛发LLM评测第一期数据集概要](dataset_public/特赛发LLM评测第一期数据集概要.csv)
 ## 评测方式
-由于时间关系，第一期测评主要评测了5个比较有代表性的中文领域大模型，同时加入了ChatGPT同分支的text-davinci-003作为比较，采用的方式是客观题使用准确率，主观题的开放性问答采用大模型当评测员的方法。
+由于时间关系，第一期测评主要评测了5个比较有代表性的中文领域大模型，同时加入了ChatGPT同分支的text-davinci-003（图称ChatGPT）作为比较，采用的方式是客观题使用准确率，主观题的开放性问答采用大模型当评测员的方法。
 ## 进一步的工作
 我们的测评目前仍有许多不足，但会在之后做一些持续工作来不断完善和优化评测的体系和结果的展现，包括但不限于：
 1. 数据集进一步完善，同时容纳更多的中文领域大模型加入评测榜单
@@ -47,18 +47,18 @@
 ![img.png](pics/basic_capability_scoreboard.png)
 ### 中文特性细分榜单
 ![img.png](pics/chinese_radar_chart.png)
-![img_2.png](pics/chinese_scoreboard.png)
+![img.png](pics/chinese_scoreboard.png)
 ### 专业能力细分榜单
-![img_3.png](pics/professional_capability_radar_chart.png)
-![img_4.png](pics/professional_capability_scoreboard.png)
+![img.png](pics/professional_capability_radar_chart.png)
+![img.png](pics/professional_capability_scoreboard.png)
 ## 客观题主观题打分结果
 ### 客观题
-![img_6.png](pics/objective_question_acc.png)
+![img.png](pics/objective_question_acc.png)
 ### 主观题
 - **三维度ChatGPT排序标准化得分**
-![img_7.png](pics/score_of_rank_in_subjective_question.png)
+- ![img.png](pics/score_of_rank_in_subjective_question.png)
 - **三维度ChatGPT打分标准化得分**
-![img_8.png](pics/score_from_3_dimension_in_subjective_question.png)
+![img.png](pics/score_from_3_dimension_in_subjective_question.png)
 
 # 实验代码说明
 
