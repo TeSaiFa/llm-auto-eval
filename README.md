@@ -56,7 +56,7 @@
 ![img.png](pics/objective_question_acc.png)
 ### 主观题
 - **三维度ChatGPT排序标准化得分**
-- ![img.png](pics/score_of_rank_in_subjective_question.png)
+![img.png](pics/score_of_rank_in_subjective_question.png)
 - **三维度ChatGPT打分标准化得分**
 ![img.png](pics/score_from_3_dimension_in_subjective_question.png)
 
