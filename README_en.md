@@ -6,7 +6,7 @@
   * [Purpose of Auto-Evaluation](#Purpose-of-Auto-Evaluation)
   * [Dimensions of Auto-Evaluation](#Dimensions-of-Auto-Evaluation)
   * [Methodology of Auto-Evaluation](#Methodology-of-Auto-Evaluation)
-  * [Future Work](#Future Work)
+  * [Future Work](#Future-Work)
 * [The Main Results of LLM Auto-Evaluation by Tesaifa - Phase 1](#The-Phase-1-Main-Results-of-LLM-Auto-Evaluation-by-Tesaifa)
 * [Explanation of Experimental Script](#Explanation-of-Experimental-Script)
   * [Construction and Selection of Prompts](#Construction-and-Selection-of-Prompts)
