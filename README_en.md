@@ -17,7 +17,6 @@
 
 
 # Introduction to LLM Auto-Evaluation by Tesaifa
-[loan_collection_multi_round.json](..%2FPycharmProjects%2Fchatglm_finetuning%2Fdata%2Floan_collection_multi_round.json)
 
 ## Purpose of Auto-Evaluation
 
