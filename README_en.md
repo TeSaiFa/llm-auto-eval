@@ -2,7 +2,7 @@
 # Table of Content
 
 
-* [Introduction to LLM Auto-Evaluation by Tesaifa](#Introduction to LLM Auto-Evaluation by Tesaifa)
+* [Introduction to LLM Auto-Evaluation by Tesaifa](#Introduction-to-LLM-Auto-Evaluation-by-Tesaifa)
   * [Purpose of Auto-Evaluation](#Purpose of Auto-Evaluation)
   * [Dimensions of Auto-Evaluation](#Dimensions of Auto-Evaluation)
   * [Methodology of Auto-Evaluation](#Methodology of Auto-Evaluation)
